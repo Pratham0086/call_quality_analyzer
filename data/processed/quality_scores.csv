@@ -1,0 +1,721 @@
+score_id,contact_id,agent_id,section_name,criteria_name,score,passed,reasoning,scored_by,evaluated_at
+b6a12d65-91f2-44d8-a807-b86041bff191,624279072949,26514875,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — this is, thank you for contacting",keyword_match,2026-03-16 10:00:36.023910
+0acf6add-2e77-4033-8d4c-e606a3936c54,624279072949,26514875,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — call you back, spell your",keyword_match,2026-03-16 10:00:36.039819
+3295f622-7378-44a1-999f-ec37951db5d6,624279072949,26514875,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:36.047827
+f5c4f7e5-0f3b-49ba-88a9-fdc059d52ae8,624279072949,26514875,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.058647
+b308c85e-a247-45ac-8c3b-d5880699e042,624279072949,26514875,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.065999
+4878432c-a00e-4582-a2cd-5e5e8927df61,624279072949,26514875,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:36.072329
+dadf74ad-4db0-4641-9e8c-abcb1877fdeb,624279072949,26514875,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.076102
+ab4185cf-c118-4662-be2c-853ab8533c05,624279072949,26514875,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — anything else,keyword_match,2026-03-16 10:00:36.079725
+94ae7770-440c-4cc5-b858-7114cd2e41cd,624279072949,26514875,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a great, great day",keyword_match,2026-03-16 10:00:36.084160
+134c3f97-5010-4b1f-bfb6-4bbeedd93063,624279072949,26514875,Section 3: Communication Quality,Professional Tone,0.73,True,PASS sentiment:0.15 empathy:3,sentiment_analysis,2026-03-16 10:00:36.088570
+1aaff2cf-1a41-4e04-b6d9-eca5d2a4fee6,624279072949,26514875,Section 3: Communication Quality,Clear Explanation,0.4,True,PASS instructions:4,sentiment_analysis,2026-03-16 10:00:36.092713
+0a8a3c6e-d34b-4c36-a96d-d8c918f1731e,624279072949,26514875,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:36.096832
+851a8ca6-a548-47e5-b481-f110de247f04,624279091078,23548679,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:36.118391
+987825e0-873d-4207-9154-bd08a42f0c65,624279091078,23548679,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:36.124403
+ef012ca3-1a2c-4dd0-bb4e-e9af0ac04e43,624279091078,23548679,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:36.128448
+537b0036-472f-496f-9c99-5aba9d58c769,624279091078,23548679,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.132680
+60464065-b307-436c-9199-0631400b25a4,624279091078,23548679,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.136577
+8d2b69f8-eaef-46f6-98fa-001b6dd73c87,624279091078,23548679,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.140028
+655998e1-d2b3-46df-9cbe-ddc791e54475,624279091078,23548679,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.143042
+fbb8dd31-dfed-4dab-bf4e-c9aee9889ce4,624279091078,23548679,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.145934
+0acfc3db-373a-47aa-af87-72a5ea317437,624279091078,23548679,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a great, great day",keyword_match,2026-03-16 10:00:36.149003
+9e6819d1-0119-4ef7-a483-a845965d5bca,624279091078,23548679,Section 3: Communication Quality,Professional Tone,0.83,True,PASS sentiment:0.25 empathy:4,sentiment_analysis,2026-03-16 10:00:36.152261
+f539bb7a-2035-4723-8516-4214314664b3,624279091078,23548679,Section 3: Communication Quality,Clear Explanation,0.1,False,FAIL instructions:1,sentiment_analysis,2026-03-16 10:00:36.155772
+acc970ff-b26f-4a78-aa65-3f9c2a0e79f0,624279091078,23548679,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:36.159117
+204c4fed-81a5-4f52-883d-614e23d635ec,624279096503,21352312,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:36.182443
+e4a17211-3adc-4fc8-9627-cd7694577d41,624279096503,21352312,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:36.186250
+e4929062-86f1-48b0-ae10-3890a89d23fa,624279096503,21352312,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.190127
+23aaea4b-0512-4929-841f-b4883cd96e1e,624279096503,21352312,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.193446
+ac9c5542-03da-46d7-bfae-f36b6fbf1c04,624279096503,21352312,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — resolved,keyword_match,2026-03-16 10:00:36.196708
+d11ca833-736c-48f9-a91b-fbd5d66cab20,624279096503,21352312,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.200097
+dd96576b-9732-494d-8e25-d45bbc9bb704,624279096503,21352312,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.209127
+4db2a412-99d1-4b1a-b9e1-b5046881dee4,624279096503,21352312,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, help you with today",keyword_match,2026-03-16 10:00:36.213691
+161a0d03-059b-4b16-9510-099c73ddcdff,624279096503,21352312,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — take care,keyword_match,2026-03-16 10:00:36.218000
+72a048dc-caa4-4ad3-bf24-e51489094254,624279096503,21352312,Section 3: Communication Quality,Professional Tone,0.75,True,PASS sentiment:0.30 empathy:2,sentiment_analysis,2026-03-16 10:00:36.222335
+1c7499c3-9f44-45ea-8801-a0c6cf18ab14,624279096503,21352312,Section 3: Communication Quality,Clear Explanation,0.3,True,PASS instructions:3,sentiment_analysis,2026-03-16 10:00:36.230589
+88817b24-8d5a-482a-b1e6-7163e025667a,624279096503,21352312,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:36.234297
+f64f1f03-7480-4d47-ba80-61e6c027652a,624279721699,24145412,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:00:36.292973
+36966f3b-048d-4def-9856-90b114172faf,624279721699,24145412,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:36.301147
+5c940575-e78f-40c5-a0a0-ad26153bafdb,624279721699,24145412,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.315739
+f0cecbf6-f63d-4ad9-a756-59cac7710579,624279721699,24145412,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:36.326300
+d063a321-bdfd-4662-bb07-e636bb23979b,624279721699,24145412,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.330416
+3a684dad-34d2-4bb4-b234-39dbb650734f,624279721699,24145412,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.334035
+ee51c39e-796b-4288-808e-b8668419f4a2,624279721699,24145412,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.345495
+0bca1e99-836b-48fe-aa89-0f721a812049,624279721699,24145412,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.352074
+b118fd15-502c-45cf-96fe-c77a88ef4dc1,624279721699,24145412,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.359683
+65c5e379-de49-4aec-a2a9-b26bcf7557ec,624279721699,24145412,Section 3: Communication Quality,Professional Tone,0.81,True,PASS sentiment:0.32 empathy:3,sentiment_analysis,2026-03-16 10:00:36.371340
+4df2f63c-726a-4d54-830a-9fe0684cbe23,624279721699,24145412,Section 3: Communication Quality,Clear Explanation,0.7,True,PASS instructions:7,sentiment_analysis,2026-03-16 10:00:36.382577
+435d536c-f51a-42aa-bf65-3ecbc4f9cf09,624279721699,24145412,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:36.394017
+05ef2e48-153b-4258-8403-5dffbe72bca0,624279879911,28585315,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:36.483929
+aab7bfc9-afae-4dba-8a58-d8ac33f4acd7,624279879911,28585315,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:36.490890
+1a1b0f64-b0be-4594-a239-667a7646f3ca,624279879911,28585315,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.498242
+d206429e-dcbd-43d6-862d-a025ead0a9d4,624279879911,28585315,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:36.509452
+13a22fe2-a9c1-4111-80ac-2caeab999355,624279879911,28585315,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.518582
+741e9d1c-c65f-4243-baf8-cdc94f6e3eb9,624279879911,28585315,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.531534
+4b34673f-dfb3-49b0-808b-e4755e1bbc3c,624279879911,28585315,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — follow up,keyword_match,2026-03-16 10:00:36.539982
+2f6f5140-beb5-4d18-95bd-619535558620,624279879911,28585315,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.549107
+6f02e1ae-e43b-489d-9127-9ab857c7c5e0,624279879911,28585315,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.554964
+158abd7c-d0af-4e46-80d5-0f671a0ae38f,624279879911,28585315,Section 3: Communication Quality,Professional Tone,0.8,True,PASS sentiment:0.21 empathy:4,sentiment_analysis,2026-03-16 10:00:36.558510
+c734c124-29c9-4e2d-956c-181a8e8748b7,624279879911,28585315,Section 3: Communication Quality,Clear Explanation,0.6,True,PASS instructions:6,sentiment_analysis,2026-03-16 10:00:36.562143
+d9b2a1c7-b4be-4203-be33-f5ea451082a3,624279879911,28585315,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:36.573744
+8dca1113-8b08-4bc7-b7c2-c572e6a8e771,624279893173,22351462,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:36.632833
+0969643c-196c-4279-892d-6e2e289fcaaf,624279893173,22351462,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:36.649686
+2418a77f-068a-4cb3-ac1a-2e8c441bb375,624279893173,22351462,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:36.657710
+fefb0e38-2695-4d30-ab7b-50bd0bdee881,624279893173,22351462,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.664985
+2f7d3900-5eab-483d-8afc-1bc55d34615d,624279893173,22351462,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.673712
+1e22546e-3725-456c-9593-0f27ea722f94,624279893173,22351462,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.689763
+a83ed5e9-8ec5-4e5a-940a-713312a293bc,624279893173,22351462,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.706746
+27b288c0-a028-40ee-b6a4-bbd481e8d62e,624279893173,22351462,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.731623
+0173d5db-3409-4ac6-b99c-6ceac895f8ea,624279893173,22351462,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — have a great,keyword_match,2026-03-16 10:00:36.754640
+ebfab8b2-7978-4049-ae57-c252c6900dad,624279893173,22351462,Section 3: Communication Quality,Professional Tone,0.63,True,PASS sentiment:0.26 empathy:0,sentiment_analysis,2026-03-16 10:00:36.769596
+252d77be-84a5-4672-9359-982c46eff3cc,624279893173,22351462,Section 3: Communication Quality,Clear Explanation,0.4,True,PASS instructions:4,sentiment_analysis,2026-03-16 10:00:36.780838
+6d000e82-8748-4afa-af0b-ba0d3f423008,624279893173,22351462,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:36.789978
+12062af3-2d8c-483f-898a-bb328788402b,624279908539,27471653,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:36.898280
+4b5ba0bc-dc9a-4b87-9870-ab29bbb9ba98,624279908539,27471653,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:36.906794
+af835419-686e-4d19-a3fc-5028dcfa1c30,624279908539,27471653,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.913999
+cfca93e0-a7f1-4308-a3ce-d256f22b9006,624279908539,27471653,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.924748
+02bece20-e27c-4ad3-bcc4-314d0dc8ddba,624279908539,27471653,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.934489
+a62ece74-a406-476e-be08-d299f47f39a1,624279908539,27471653,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.947832
+52010c8b-257a-4483-9658-8ad9a3400c85,624279908539,27471653,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.959982
+7d907129-dd26-43a4-827a-8d7831f699b1,624279908539,27471653,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — anything else,keyword_match,2026-03-16 10:00:36.972800
+48b7145f-016a-4de8-8883-945f0eb49e20,624279908539,27471653,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:36.983199
+524bb854-06cd-481c-bafe-4c22337441d3,624279908539,27471653,Section 3: Communication Quality,Professional Tone,0.82,True,PASS sentiment:0.23 empathy:4,sentiment_analysis,2026-03-16 10:00:37.000812
+5aa72a26-a852-4519-b567-5d6106441559,624279908539,27471653,Section 3: Communication Quality,Clear Explanation,0.8,True,PASS instructions:8,sentiment_analysis,2026-03-16 10:00:37.016844
+94699af8-6dd2-4772-add9-e83868d94cea,624279908539,27471653,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:37.031783
+d71938d1-fcd3-4c84-be01-b86b02f1e96b,624279924425,27275123,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:37.076369
+5d283bcb-e362-413a-8db7-11f08d78b47d,624279924425,27275123,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, callback number",keyword_match,2026-03-16 10:00:37.081853
+44c9fe7b-8acb-440b-adb7-1dff18461109,624279924425,27275123,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:37.091747
+56b9fe08-0e99-4726-a72b-bf70cf5f646b,624279924425,27275123,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.097512
+5b7b08fc-b7b0-4c1f-bd5e-a1a78c9ef2e4,624279924425,27275123,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.102898
+894621fb-da10-4ffe-a5fb-92a96517d9cb,624279924425,27275123,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:37.107918
+67c46620-2dce-4b24-9afb-bd72e2b59fb6,624279924425,27275123,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.116145
+b2b941e3-d1a0-4a44-bffa-35c3a0b140f9,624279924425,27275123,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, is there anything",keyword_match,2026-03-16 10:00:37.125851
+1cc1a29b-0dfd-4abb-ad21-7d8c19e1db2b,624279924425,27275123,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.130156
+b4595aef-d4d1-4f96-9a0f-e0793710c7ed,624279924425,27275123,Section 3: Communication Quality,Professional Tone,0.67,True,PASS sentiment:0.35 empathy:0,sentiment_analysis,2026-03-16 10:00:37.134003
+80a09f14-7542-4577-9e5c-4e332ed96b54,624279924425,27275123,Section 3: Communication Quality,Clear Explanation,0.1,False,FAIL instructions:1,sentiment_analysis,2026-03-16 10:00:37.137608
+8b34bbcc-3c6c-485c-b98d-0a2f6dbbe3e3,624279924425,27275123,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:37.140888
+60d28da7-2d48-4378-b156-517d473cbd74,624279931111,26565321,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:00:37.162571
+e3c9ac49-70c5-42d3-be9d-3f766e1b4c4e,624279931111,26565321,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:37.166632
+2648ba61-889c-401d-98f6-55820fd38fd7,624279931111,26565321,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:37.172925
+f09b7e77-46ae-4fda-bceb-0f2b20fc89fc,624279931111,26565321,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:37.179725
+d94f26d9-2ed9-4afd-a753-412b699d7e98,624279931111,26565321,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.183522
+88b7d4aa-cc2d-4493-a1a3-b01cc1f1db37,624279931111,26565321,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.187938
+ca07300e-8e6a-4843-b38f-3089b23478c5,624279931111,26565321,Section 2: Problem Resolution,Escalation Handling,1.0,True,"PASS — escalate, reach out",keyword_match,2026-03-16 10:00:37.191590
+cae55a6a-9f90-4227-be76-e7490d38efd8,624279931111,26565321,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.194787
+93f00c9e-1186-4d36-81d7-35f89cbd2732,624279931111,26565321,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.198689
+09057210-c4de-484a-9d20-5e2dd997e313,624279931111,26565321,Section 3: Communication Quality,Professional Tone,0.64,True,PASS sentiment:0.18 empathy:1,sentiment_analysis,2026-03-16 10:00:37.202493
+cd6907fc-e64e-4523-b1de-bd70c35e305a,624279931111,26565321,Section 3: Communication Quality,Clear Explanation,0.3,True,PASS instructions:3,sentiment_analysis,2026-03-16 10:00:37.216962
+8df1a9f6-184a-487c-b910-c06c7e43eda5,624279931111,26565321,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:37.226488
+1c537f95-4a1c-4950-9b61-aa2910ed0be9,624279943370,26854713,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:37.271084
+8e9b7fa2-30a0-49a1-9b11-eab5a5e68eeb,624279943370,26854713,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:37.284533
+fff3c77d-72a2-44dd-9ed7-a8180ee138f8,624279943370,26854713,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:37.295841
+df122d9f-2897-4190-9d9e-e09fdf50e8db,624279943370,26854713,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.304600
+821e6ba2-34dc-4e13-b781-33851b1bf835,624279943370,26854713,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — successfully,keyword_match,2026-03-16 10:00:37.312992
+8a79ea43-dff1-405d-8af9-ca9e65e0c82a,624279943370,26854713,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.327439
+0f992664-a45c-4c78-a2cb-dd16c3129511,624279943370,26854713,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.335754
+ee1a6ab6-c022-41b7-87b0-c7fe25a81d9e,624279943370,26854713,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — anything else,keyword_match,2026-03-16 10:00:37.343505
+c7b3e84a-f156-4719-b297-9afb02c831eb,624279943370,26854713,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.347594
+792e0efb-bb45-4a5c-b68a-f7aebfc7fe99,624279943370,26854713,Section 3: Communication Quality,Professional Tone,0.73,True,PASS sentiment:0.25 empathy:2,sentiment_analysis,2026-03-16 10:00:37.353301
+4896dc32-f4a9-4f73-996a-0a5d14ac1629,624279943370,26854713,Section 3: Communication Quality,Clear Explanation,0.6,True,PASS instructions:6,sentiment_analysis,2026-03-16 10:00:37.361729
+87991425-2431-466b-a101-86752f8a8783,624279943370,26854713,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:37.368694
+e9c33ee7-3784-4038-873c-121b10edc548,625338079968,28585315,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:37.558517
+340246e5-1bce-46b7-b497-0eaaa384f066,625338079968,28585315,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:37.567567
+aa22c325-9bcb-4084-858c-0cc82b240b97,625338079968,28585315,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.577156
+545d5940-98d6-4a38-bd6c-8413b087c016,625338079968,28585315,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:37.586278
+c048db7b-89cf-4aab-82a9-5475c05b0c76,625338079968,28585315,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.594831
+00faf3cf-47ca-44c9-8273-106776246bc8,625338079968,28585315,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.605695
+9e00dd42-cf55-45ed-b7f7-89098f821b66,625338079968,28585315,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.614996
+c8e1b4a9-0752-4a79-a323-7b2cd383b1e8,625338079968,28585315,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.620728
+eedcaf1b-f722-4752-a390-b62b58435e00,625338079968,28585315,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.628748
+d3b40b37-2359-4a1d-92db-1b0002264d95,625338079968,28585315,Section 3: Communication Quality,Professional Tone,0.89,True,PASS sentiment:0.27 empathy:5,sentiment_analysis,2026-03-16 10:00:37.636741
+1c24045c-b910-4a9d-b872-729ad44e4194,625338079968,28585315,Section 3: Communication Quality,Clear Explanation,1.0,True,PASS instructions:10,sentiment_analysis,2026-03-16 10:00:37.644660
+ea998ea9-0cfa-4480-bbab-21b0819c853e,625338079968,28585315,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:37.649854
+df337e6c-36da-4e43-bbf4-85be386f3a10,625338188073,26541524,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:37.804322
+5ff6a65f-e160-48fc-9702-848a5ef03392,625338188073,26541524,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:37.827680
+83498aed-3461-472b-9f55-7b96939dce98,625338188073,26541524,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:37.840711
+5efeebc4-2a63-4ee1-a98f-508809d90965,625338188073,26541524,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.852043
+e432355c-9eb5-4aa2-8f48-3e038386a08b,625338188073,26541524,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — all set,keyword_match,2026-03-16 10:00:37.863950
+97a6a45b-d77d-4890-a5e3-aeb274f197c9,625338188073,26541524,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.870844
+3c676b39-25d2-484f-b4c8-e8f934c5f056,625338188073,26541524,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:37.875811
+c3e28dd3-7c8c-45ba-af09-a71349e573ff,625338188073,26541524,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, all set",keyword_match,2026-03-16 10:00:37.884970
+2f189ec0-4083-4b56-a282-b0338ca09a01,625338188073,26541524,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a great, great day",keyword_match,2026-03-16 10:00:37.890862
+7fee081e-f613-4e8e-9af3-fc3790c51403,625338188073,26541524,Section 3: Communication Quality,Professional Tone,0.77,True,PASS sentiment:0.23 empathy:3,sentiment_analysis,2026-03-16 10:00:37.897847
+ce5b9590-a07a-4e9b-9d31-44168363def5,625338188073,26541524,Section 3: Communication Quality,Clear Explanation,0.5,True,PASS instructions:5,sentiment_analysis,2026-03-16 10:00:37.901551
+1f6a7001-3c2c-4d52-99b0-f06e98498a69,625338188073,26541524,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:37.906471
+40845544-c4c5-42a4-acfa-c596e58d6eff,625434307937,28787456,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:38.374001
+970a4e3d-fe2d-415a-8e9f-a999ab803d9b,625434307937,28787456,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:38.411659
+f2837ba7-a058-48f3-a055-e118d1003191,625434307937,28787456,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i assist,keyword_match,2026-03-16 10:00:38.440486
+64749835-6e1c-4df8-9634-404adedebe68,625434307937,28787456,Section 2: Problem Resolution,Active Listening,1.0,True,"PASS — i understand, i see",keyword_match,2026-03-16 10:00:38.460595
+b2a9474a-dfc4-4970-b50c-a1257643a1dd,625434307937,28787456,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.487508
+7d29fb17-1bae-498f-9e77-18f441d8a7c5,625434307937,28787456,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.514761
+18081ad6-80bb-4b42-b8d0-ffacda9299d5,625434307937,28787456,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — follow up,keyword_match,2026-03-16 10:00:38.548665
+feb0e760-dc6d-4a08-8b16-bf277807a3e6,625434307937,28787456,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.568618
+04591477-5020-44e0-bf89-6d44b44be634,625434307937,28787456,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — have a wonderful,keyword_match,2026-03-16 10:00:38.602550
+92a857eb-9ca8-4cd7-9218-50765bd3e962,625434307937,28787456,Section 3: Communication Quality,Professional Tone,0.91,True,PASS sentiment:0.22 empathy:6,sentiment_analysis,2026-03-16 10:00:38.627648
+07499398-810e-42ca-934d-9bb64f35dba3,625434307937,28787456,Section 3: Communication Quality,Clear Explanation,1.0,True,PASS instructions:10,sentiment_analysis,2026-03-16 10:00:38.637776
+26f14ebd-df6a-47ba-8ca2-5224a2ef93db,625434307937,28787456,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:00:38.646077
+2bd781bc-f409-4d69-af08-239a4d0fd44f,625434473885,25465231,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:00:38.807138
+2dcd3836-2230-4775-8a12-6bc24e0ff1cb,625434473885,25465231,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:38.811444
+8507c5bf-737d-4029-a9a9-91aac637b370,625434473885,25465231,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.815596
+ee436a51-4b32-4f70-af66-23f540456ee6,625434473885,25465231,Section 2: Problem Resolution,Active Listening,1.0,True,"PASS — i understand, i see",keyword_match,2026-03-16 10:00:38.819557
+e3e48456-bd97-473b-9db6-a6512af9b96c,625434473885,25465231,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.823610
+4590eaad-f7b4-421d-955c-d7ca4cafc3b2,625434473885,25465231,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.828568
+81f7072b-e466-492c-b6cf-551f006ae257,625434473885,25465231,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — reach out,keyword_match,2026-03-16 10:00:38.832379
+981fbaa2-0aa0-43db-bf91-e3411b47766f,625434473885,25465231,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.836260
+852c89e9-4c63-4068-906c-b4dcd0b63425,625434473885,25465231,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — have a great,keyword_match,2026-03-16 10:00:38.839842
+dee11aa1-b1d5-4ac1-bb2f-52e5f56dd4af,625434473885,25465231,Section 3: Communication Quality,Professional Tone,0.85,True,PASS sentiment:0.30 empathy:4,sentiment_analysis,2026-03-16 10:00:38.843135
+905ed968-8457-45a8-b07e-ec42c5ee402e,625434473885,25465231,Section 3: Communication Quality,Clear Explanation,1.0,True,PASS instructions:10,sentiment_analysis,2026-03-16 10:00:38.846726
+2ea11eda-8a7f-4168-b07d-641bdf455ceb,625434473885,25465231,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:38.849833
+d8747598-8469-4c2f-aeec-3fbaf65d63d6,625435188686,28585315,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:38.907299
+1185c4de-f9e4-479b-b0ff-7e1ff03d6461,625435188686,28585315,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:38.913115
+158f5365-9085-4867-b70f-9164dde7e3ba,625435188686,28585315,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.918186
+28efac0f-cedb-446a-9302-022414e30a22,625435188686,28585315,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:38.921653
+b28667be-cc38-482b-9bbb-9b2a7c7a60ac,625435188686,28585315,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — fixed,keyword_match,2026-03-16 10:00:38.924978
+935106a4-c90f-45c8-a407-63113fcd6f1a,625435188686,28585315,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.927953
+4d773c35-a036-4656-8339-d1b91aa3433e,625435188686,28585315,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.931095
+182433e9-a208-4e3f-b7f1-88d7baf5c709,625435188686,28585315,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.934187
+db3fa9da-b8ea-4f5a-b10a-f25c2d1912e6,625435188686,28585315,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:38.937167
+6f065a91-0924-4c90-bf28-a650e426ddc9,625435188686,28585315,Section 3: Communication Quality,Professional Tone,0.74,True,PASS sentiment:0.29 empathy:2,sentiment_analysis,2026-03-16 10:00:38.940036
+84720eac-98a3-4d2c-a905-df82da83e17e,625435188686,28585315,Section 3: Communication Quality,Clear Explanation,0.5,True,PASS instructions:5,sentiment_analysis,2026-03-16 10:00:38.944268
+ebfe42fa-2d60-4156-b65d-3837de06e060,625435188686,28585315,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:38.947516
+b9165c6a-da50-4d73-ab8b-f8c78c9e813e,625547623075,28585315,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:39.041351
+28ffc35c-1153-44dc-aa4c-826ae4630947,625547623075,28585315,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, spell your",keyword_match,2026-03-16 10:00:39.044760
+0f81c1ec-64fb-499a-ae7c-f64f4f40c3c2,625547623075,28585315,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.047666
+e3a9b4ae-ecfd-4729-8eba-b2750318cb4d,625547623075,28585315,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:39.050993
+41a644ab-4091-4785-b698-200adc1e6ebd,625547623075,28585315,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.055901
+909e9893-b290-44a2-ba60-46b8a17f5667,625547623075,28585315,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.059144
+b6912b5c-cc75-4a6d-aaa8-73c974f008b9,625547623075,28585315,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — get back to you,keyword_match,2026-03-16 10:00:39.062433
+070318d2-b650-415d-bd99-4b0759b27021,625547623075,28585315,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — anything else,keyword_match,2026-03-16 10:00:39.065689
+0e91edd7-009f-4009-8786-73e82abd4a3c,625547623075,28585315,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.069525
+92693686-a8e5-459f-9a5e-9eac6adc6ae3,625547623075,28585315,Section 3: Communication Quality,Professional Tone,0.79,True,PASS sentiment:0.28 empathy:3,sentiment_analysis,2026-03-16 10:00:39.072761
+e83617bb-081c-464c-a172-33a3a3e95046,625547623075,28585315,Section 3: Communication Quality,Clear Explanation,0.7,True,PASS instructions:7,sentiment_analysis,2026-03-16 10:00:39.075788
+969c679f-9b2f-4d25-8ce7-ddefabddc296,625547623075,28585315,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.078922
+553e7876-a50c-4323-a548-3c66aec9bb7c,625547653060,25645142,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:39.132248
+0317fae8-f175-4a6a-abb1-3c14a41a363a,625547653060,25645142,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:39.136346
+c34ed674-c206-4c1c-819d-a85e627e239d,625547653060,25645142,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.139505
+be833e43-ec62-4412-ba7e-e4af593cc509,625547653060,25645142,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.142332
+070bf17f-93fc-4a7b-bce1-e68016306ef3,625547653060,25645142,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.144791
+18bd197e-206c-4f4c-9768-8b293f4d061b,625547653060,25645142,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.146888
+66c976da-5bdb-4656-a772-1b0cd7a17d82,625547653060,25645142,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.149076
+cc307550-9932-4465-97e7-272e5f7d4479,625547653060,25645142,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.151803
+15d9d8a4-4300-4614-8b60-0fbeac76cbfe,625547653060,25645142,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.156541
+c3dc0a35-7b7b-402c-8fb9-9d0e790ae783,625547653060,25645142,Section 3: Communication Quality,Professional Tone,0.76,True,PASS sentiment:0.22 empathy:3,sentiment_analysis,2026-03-16 10:00:39.160172
+93a5aa18-2452-4287-8bf9-dd1334f0ba5e,625547653060,25645142,Section 3: Communication Quality,Clear Explanation,0.9,True,PASS instructions:9,sentiment_analysis,2026-03-16 10:00:39.163328
+91e44db7-afac-403b-a52f-616af076802c,625547653060,25645142,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.166310
+bfdbddd4-d1e6-4043-b2f6-61b04a277de3,625549534849,25454653,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thanks for calling, this is",keyword_match,2026-03-16 10:00:39.236721
+768e0a99-bb60-4012-8d0f-89adada4e859,625549534849,25454653,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:39.240134
+8acdae93-fd9a-4add-a5a6-2705a63f46f4,625549534849,25454653,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:39.242832
+c743f967-6efc-4db1-b07f-af316d1a215e,625549534849,25454653,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:39.245951
+cddc479e-cdd3-4993-ab66-4cdac87b7d74,625549534849,25454653,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.249155
+bba2ba3f-1af3-4332-8faa-b5c9fc78b76e,625549534849,25454653,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:39.253359
+903ac6d5-56b6-4929-8855-001363be561c,625549534849,25454653,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.259319
+afe76d1d-39d0-489c-b4a3-632996bb6a3d,625549534849,25454653,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.263349
+79dea4c7-cb39-4e97-a910-ba0a57879645,625549534849,25454653,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.266950
+5d8cde69-e596-4fcb-ab54-17c2c2593ebd,625549534849,25454653,Section 3: Communication Quality,Professional Tone,0.78,True,PASS sentiment:0.26 empathy:3,sentiment_analysis,2026-03-16 10:00:39.270630
+bd765dbe-cf4a-4ab5-86c4-3903b7bdbd76,625549534849,25454653,Section 3: Communication Quality,Clear Explanation,0.4,True,PASS instructions:4,sentiment_analysis,2026-03-16 10:00:39.274703
+cec05db4-cb1b-42e3-b3ff-24c2fd14a08d,625549534849,25454653,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.278434
+6f64d08c-d778-4dc4-9322-7416414ef309,625649798181,24541241,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:39.302515
+852d46c6-d6cf-4e8e-851a-1425fd055acf,625649798181,24541241,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:39.306571
+0c978193-abee-4644-8fb8-2c19c9172050,625649798181,24541241,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:39.310352
+5c6a360a-ddc1-4a9e-81c9-18fa72de56db,625649798181,24541241,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.314326
+d99f32d8-e604-43b4-8106-0dd12b6feee0,625649798181,24541241,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.319231
+63fcfcfe-1ef6-4890-9348-8746b71ddb05,625649798181,24541241,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.322420
+b51c57f3-a8d9-44de-bda1-64aa384ed67a,625649798181,24541241,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.325668
+52c70cef-0831-4bdc-b6b7-448eac16b403,625649798181,24541241,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.328797
+60a6e7a9-0464-4ba7-b4d6-8d3c2d0721c3,625649798181,24541241,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a wonderful, bye bye",keyword_match,2026-03-16 10:00:39.331739
+a642982b-cf4b-40be-9363-c0f2de189a38,625649798181,24541241,Section 3: Communication Quality,Professional Tone,0.88,True,PASS sentiment:0.35 empathy:4,sentiment_analysis,2026-03-16 10:00:39.335276
+80eeb707-35ca-446b-90c0-18add32c8dcd,625649798181,24541241,Section 3: Communication Quality,Clear Explanation,0.8,True,PASS instructions:8,sentiment_analysis,2026-03-16 10:00:39.339192
+1785d395-fa9d-43cb-acf8-932af99b6b8f,625649798181,24541241,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.342268
+0995f40d-d941-4233-84ff-0d99454dff0b,625650236230,24165398,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — this is, thank you for contacting",keyword_match,2026-03-16 10:00:39.415411
+9316a5ed-ebb7-4abd-9789-c037af226dff,625650236230,24165398,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:39.419003
+a46e3d1e-b238-478e-8fbd-c25a54262594,625650236230,24165398,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:39.423985
+7421a2dd-4204-48dc-92d6-475176726098,625650236230,24165398,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.428473
+eda94342-9648-4989-a2b5-6fe95d87f427,625650236230,24165398,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — good to go,keyword_match,2026-03-16 10:00:39.433578
+c87a0665-bf76-44bc-89bd-fee9bacf35cc,625650236230,24165398,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.441277
+931773de-53d4-45f3-876c-2f3a99a06367,625650236230,24165398,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — reach out,keyword_match,2026-03-16 10:00:39.444166
+c4e7304d-d84f-4abb-91a3-46f5f2c94758,625650236230,24165398,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.446752
+6ee7de99-bedd-48bb-b0ba-35d7c69d1f89,625650236230,24165398,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.449498
+31490adb-6cca-46f3-954e-243a91dd200a,625650236230,24165398,Section 3: Communication Quality,Professional Tone,0.65,True,PASS sentiment:0.20 empathy:1,sentiment_analysis,2026-03-16 10:00:39.452488
+9aa3d48e-bb18-45eb-a075-a7fd3adebc61,625650236230,24165398,Section 3: Communication Quality,Clear Explanation,0.8,True,PASS instructions:8,sentiment_analysis,2026-03-16 10:00:39.455526
+8e1b341c-bb9f-48bd-98b2-3db1e35b52e3,625650236230,24165398,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.458601
+25d36788-a00b-4a0f-a4d0-967ecd2541d8,625650422153,24165398,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — this is, thank you for contacting",keyword_match,2026-03-16 10:00:39.500455
+1ed1e4fa-f6c3-4530-b60b-39bfeae77ebf,625650422153,24165398,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:39.504617
+9b9de1d8-ff01-45a2-be0e-3360d12262a2,625650422153,24165398,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:39.508751
+32db9e8a-fb6e-4336-a407-80e08b48382b,625650422153,24165398,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.513474
+3d3cea5a-bdad-4fc9-983c-a7dc8ddbe31e,625650422153,24165398,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.516860
+a91061d0-f980-4fe2-a9f9-68e37400970f,625650422153,24165398,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:39.520253
+e6cc9383-d500-45c4-af5a-404b0821cbeb,625650422153,24165398,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — supervisor,keyword_match,2026-03-16 10:00:39.524253
+42eaae2b-a05a-43bc-aa7e-7dfd89f823cc,625650422153,24165398,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — anything else,keyword_match,2026-03-16 10:00:39.527960
+b7d985df-3ad5-4eef-9caa-14d15cf2d937,625650422153,24165398,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.531172
+42a81d84-7468-4c6e-965a-036547eb8307,625650422153,24165398,Section 3: Communication Quality,Professional Tone,0.78,True,PASS sentiment:0.26 empathy:3,sentiment_analysis,2026-03-16 10:00:39.534313
+51e4eaef-117b-4f73-8a53-178c1acd7fc4,625650422153,24165398,Section 3: Communication Quality,Clear Explanation,1.0,True,PASS instructions:10,sentiment_analysis,2026-03-16 10:00:39.538008
+9fd80aab-7fa1-4ec8-8ac4-940c8ee2ae69,625650422153,24165398,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.540893
+7688b4ed-e178-4af5-9cc8-0960138d85f4,625750476802,65875421,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:39.580893
+4b7665af-6310-4b4d-8cc8-af70db342ac2,625750476802,65875421,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:39.584668
+8bd16ed7-ef1d-4cb1-97c1-018db2998563,625750476802,65875421,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:39.587906
+2ae145b8-256c-43c9-b1f6-54454278b0be,625750476802,65875421,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:39.591114
+d8e6a01e-ec30-4673-b448-0f0431a19966,625750476802,65875421,Section 2: Problem Resolution,Resolution Provided,1.0,True,"PASS — fixed, successfully",keyword_match,2026-03-16 10:00:39.594032
+50c0a6d5-fd59-4239-85d5-c1eb4ffc2599,625750476802,65875421,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.597068
+1ee4bd1c-46d7-4c53-a0b9-40972a69229c,625750476802,65875421,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.600174
+8212a41b-46d0-4156-9b49-f3420b486a2b,625750476802,65875421,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.603227
+f75c7878-ac54-479f-ade0-5a1900b7e471,625750476802,65875421,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — goodbye,keyword_match,2026-03-16 10:00:39.606207
+7d42fc81-1d29-4251-8fb3-329386c0e538,625750476802,65875421,Section 3: Communication Quality,Professional Tone,0.72,True,PASS sentiment:0.24 empathy:2,sentiment_analysis,2026-03-16 10:00:39.609280
+3e550c83-132a-4104-aaa2-a20d7010ad86,625750476802,65875421,Section 3: Communication Quality,Clear Explanation,0.7,True,PASS instructions:7,sentiment_analysis,2026-03-16 10:00:39.612460
+17fa7598-60e9-4b58-b374-19c54c732cd2,625750476802,65875421,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:00:39.615502
+e67e9dfc-7075-4cb9-b0c7-abcd40dec0b0,625875731133,29898672,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:00:39.663074
+a5c201e4-e157-45e2-8a6c-89e7d853fe0e,625875731133,29898672,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:39.667820
+bf5a4fd6-59e1-46a8-9f07-46595824d52e,625875731133,29898672,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:39.670966
+be47e622-5f52-4c1a-b5ab-4a43d6b226a3,625875731133,29898672,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.674258
+e2b05c67-01e3-46fd-bdb3-53b0e3dbb73d,625875731133,29898672,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.677483
+b332b494-abed-4753-a396-62add6df6d5e,625875731133,29898672,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.680515
+b3783638-a00c-404a-a562-552739b7672b,625875731133,29898672,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.686519
+19009813-8d62-4f6d-800c-160cf13b392b,625875731133,29898672,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.690864
+af028f2f-aca8-47a2-bb58-871c6069b845,625875731133,29898672,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — bye bye,keyword_match,2026-03-16 10:00:39.694819
+017634c6-ae19-444b-b256-64122c07a4e0,625875731133,29898672,Section 3: Communication Quality,Professional Tone,0.67,True,PASS sentiment:0.15 empathy:2,sentiment_analysis,2026-03-16 10:00:39.697895
+9a880ece-8373-4a2e-bda1-1e11bf87b91e,625875731133,29898672,Section 3: Communication Quality,Clear Explanation,0.7,True,PASS instructions:7,sentiment_analysis,2026-03-16 10:00:39.701025
+3cc13946-563a-461d-a246-92547875d281,625875731133,29898672,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.705487
+3c4f1206-8895-4f2a-89e3-9914c6c06d50,625876481766,28845136,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:00:39.739467
+337bebf5-38e2-46f0-9efd-ca6804ce95a8,625876481766,28845136,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:39.743541
+d33a1aa3-ab9e-46ff-abcb-d3f0ecafaf26,625876481766,28845136,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.745912
+78da9bee-ff2c-4b9a-9e75-d72c2561f36d,625876481766,28845136,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.748054
+20631991-7158-4896-82c3-54d115f70a6b,625876481766,28845136,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — should work,keyword_match,2026-03-16 10:00:39.753303
+65e17eff-1923-4b43-b3a1-51ad5f2f7788,625876481766,28845136,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.756747
+c52beebe-db2c-435a-b589-49ea75e84231,625876481766,28845136,Section 2: Problem Resolution,Escalation Handling,1.0,True,"PASS — reach out, get back to you",keyword_match,2026-03-16 10:00:39.759648
+54736ebc-0d84-48a4-a691-6cc30ea0730a,625876481766,28845136,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.762676
+ec00ed23-ee7c-4c25-9986-4f0f6ec19132,625876481766,28845136,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.765668
+71ad523e-13f5-4964-8e6c-32ae0a0e4050,625876481766,28845136,Section 3: Communication Quality,Professional Tone,0.69,True,PASS sentiment:0.19 empathy:2,sentiment_analysis,2026-03-16 10:00:39.768635
+24c53d5a-ea7b-4474-aff2-de54b57f1083,625876481766,28845136,Section 3: Communication Quality,Clear Explanation,0.4,True,PASS instructions:4,sentiment_analysis,2026-03-16 10:00:39.771542
+fc1e033c-db14-4ac8-bd45-780405190889,625876481766,28845136,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.774534
+1a4b6dd0-25d2-4fc3-8768-3160b775dd9f,625877115602,75128436,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:39.807787
+515dfa98-4308-4dca-9a56-cf9a6249da2d,625877115602,75128436,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:39.811269
+58236109-6209-40b2-8797-fb8e12f5a32e,625877115602,75128436,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.814323
+bfd24102-8f84-43c5-9c88-4df70573f273,625877115602,75128436,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.817494
+8b86815f-5f72-487b-98c8-ed4f5b3b569a,625877115602,75128436,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.822042
+b374abdf-cb0b-42e6-93b7-e5c64dfd0e05,625877115602,75128436,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.825915
+f0800724-041a-4022-982d-bcf638f85ff6,625877115602,75128436,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — escalate,keyword_match,2026-03-16 10:00:39.829251
+3a545326-84d4-4fa3-abc0-b355a376e1fb,625877115602,75128436,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — anything else,keyword_match,2026-03-16 10:00:39.832495
+e1f76e60-fa16-4327-8735-f2531b76c9fa,625877115602,75128436,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.835646
+2efbf7ce-cddb-4750-b744-169fc9485771,625877115602,75128436,Section 3: Communication Quality,Professional Tone,0.78,True,PASS sentiment:0.26 empathy:3,sentiment_analysis,2026-03-16 10:00:39.838577
+c67367e9-ba67-4bbc-84b5-472a069ade75,625877115602,75128436,Section 3: Communication Quality,Clear Explanation,0.5,True,PASS instructions:5,sentiment_analysis,2026-03-16 10:00:39.841268
+eb23e24d-37dc-424f-93c4-e913cf5a19de,625877115602,75128436,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.843658
+c41095a6-bd0e-4f1f-8ee8-2af8fac17cc3,625877219959,26514875,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — this is, thank you for contacting",keyword_match,2026-03-16 10:00:39.889906
+62610c16-71b6-4a3b-8d10-873454823b44,625877219959,26514875,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:39.893717
+dd5b39bb-7f73-4f59-bc97-10d3aceb487e,625877219959,26514875,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:39.896845
+a88861e1-3074-4a63-9692-8ac033d67c31,625877219959,26514875,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.899986
+b0e9cf73-02d5-4c78-b7c1-a191ad78f7cf,625877219959,26514875,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — resolved,keyword_match,2026-03-16 10:00:39.902960
+b4bc49f3-7f01-480c-b337-def11eace1c7,625877219959,26514875,Section 2: Problem Resolution,Hold Protocol,1.0,True,"PASS — one moment, thank you so much for your patience",keyword_match,2026-03-16 10:00:39.906057
+6fafe84a-59ca-43e0-82c0-125fae1f42a6,625877219959,26514875,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.909290
+020d3fba-2cc9-4467-bd25-6c00bc82c382,625877219959,26514875,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — anything else,keyword_match,2026-03-16 10:00:39.912453
+25fc01f9-ed66-499b-8158-12da2afe451b,625877219959,26514875,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — bye bye,keyword_match,2026-03-16 10:00:39.915902
+6e7cdf03-6e5e-4ce3-b536-d0d8fb4a3c2c,625877219959,26514875,Section 3: Communication Quality,Professional Tone,0.86,True,PASS sentiment:0.31 empathy:4,sentiment_analysis,2026-03-16 10:00:39.919078
+ecc830b5-e68d-4b15-b156-6753dc0f35a4,625877219959,26514875,Section 3: Communication Quality,Clear Explanation,0.9,True,PASS instructions:9,sentiment_analysis,2026-03-16 10:00:39.922251
+e5c9c496-874f-4966-b079-a423414f73e8,625877219959,26514875,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:39.925388
+649736cb-ed5e-4074-8a25-2e78a61b7173,625985332924,25645142,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:39.970752
+096a9185-30c4-4e87-bc72-b28ab822cb42,625985332924,25645142,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:39.974123
+f9ead244-07ea-418c-b114-7682ea0d87c2,625985332924,25645142,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.977353
+c40e5fdb-7b3c-41f8-9160-18e7cc5e486d,625985332924,25645142,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:39.980555
+214a0f4a-58fb-4421-adc7-459de56c2f33,625985332924,25645142,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.983903
+e594d18f-7772-4340-88f6-cd9a6aa042ec,625985332924,25645142,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.987270
+ae6104e8-96f8-479e-aa39-ba5f24071312,625985332924,25645142,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.990624
+941056bc-2d04-48c0-83b4-87c45e59b715,625985332924,25645142,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.993930
+8b22ada0-72e9-45b0-b2aa-b88489b5f939,625985332924,25645142,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:39.997078
+22afb411-a8b2-46d8-9976-0f5c7ba88da2,625985332924,25645142,Section 3: Communication Quality,Professional Tone,0.74,True,PASS sentiment:0.28 empathy:2,sentiment_analysis,2026-03-16 10:00:40.000124
+46bc1f62-9b0a-4a00-bf50-bea72e3a0089,625985332924,25645142,Section 3: Communication Quality,Clear Explanation,0.6,True,PASS instructions:6,sentiment_analysis,2026-03-16 10:00:40.003403
+68126f9f-508f-44d3-85ea-ceadd4cd65f6,625985332924,25645142,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.007483
+2a08ce41-dfd1-4d64-831b-db0a02599ed0,625985490009,28585315,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:40.054630
+c542bbeb-963d-42ad-900e-10c02b2b5222,625985490009,28585315,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:40.058051
+fba06fe8-2866-4599-88a0-f37dded5c139,625985490009,28585315,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.061158
+92f7b436-a0dc-482a-af28-e3f73503c255,625985490009,28585315,Section 2: Problem Resolution,Active Listening,1.0,True,"PASS — i understand, i see",keyword_match,2026-03-16 10:00:40.064644
+8d5ce3d0-5699-442b-a94c-6a5a0ed9327f,625985490009,28585315,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — should work,keyword_match,2026-03-16 10:00:40.067718
+c6969e5b-5da9-4a8f-be29-be84eb726111,625985490009,28585315,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.071320
+fb65d7f4-c500-40fd-959c-3f1d050987fc,625985490009,28585315,Section 2: Problem Resolution,Escalation Handling,1.0,True,"PASS — reach out, follow up",keyword_match,2026-03-16 10:00:40.074521
+b529f4a3-2e0d-4f2a-a9be-39b26bfa2870,625985490009,28585315,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.077593
+0327da7e-dc76-4873-85e4-c1c2c6bce639,625985490009,28585315,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.080815
+e6d89b9e-cb09-4dfb-b1ed-8af0f667e82a,625985490009,28585315,Section 3: Communication Quality,Professional Tone,0.86,True,PASS sentiment:0.33 empathy:4,sentiment_analysis,2026-03-16 10:00:40.083822
+1938d5e4-89a8-4679-8769-e861be343a49,625985490009,28585315,Section 3: Communication Quality,Clear Explanation,0.7,True,PASS instructions:7,sentiment_analysis,2026-03-16 10:00:40.087064
+6e4bca3f-a9b4-429a-94de-5fdc48a8bc53,625985490009,28585315,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.090392
+586540bb-b1a7-4de8-8baf-aacf9546c24a,625985534452,24541241,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:40.111529
+761dbf36-6bf5-4737-940d-dc3267ad387e,625985534452,24541241,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, spell your",keyword_match,2026-03-16 10:00:40.116353
+00eb9efc-fc69-48c4-9737-8f9c73abeb85,625985534452,24541241,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:40.121054
+1c1e9c4e-8cf5-43db-b31d-9a283ba2dfeb,625985534452,24541241,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.124694
+5158bc2a-f5df-42a3-82a3-9ed238fc6703,625985534452,24541241,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.127756
+a7bbc45c-f90d-4f71-b883-dfa021a0fa12,625985534452,24541241,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:40.130997
+5075b20d-ced3-404e-bae3-f30ff115a322,625985534452,24541241,Section 2: Problem Resolution,Escalation Handling,1.0,True,"PASS — escalate, level 2",keyword_match,2026-03-16 10:00:40.134270
+99e26e30-e178-404d-9f2f-572bcb393e06,625985534452,24541241,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.137509
+ef20f8ba-c54d-49b9-851f-ae6de7738048,625985534452,24541241,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — have a wonderful,keyword_match,2026-03-16 10:00:40.140399
+1c7be04d-118b-4fa5-b6a3-63d424d00f1e,625985534452,24541241,Section 3: Communication Quality,Professional Tone,0.75,True,PASS sentiment:0.31 empathy:2,sentiment_analysis,2026-03-16 10:00:40.142927
+787316c8-9484-48ad-b2cd-3785d537bc26,625985534452,24541241,Section 3: Communication Quality,Clear Explanation,0.2,False,FAIL instructions:2,sentiment_analysis,2026-03-16 10:00:40.145249
+bc54385c-4999-4e90-a47e-4f696943eb04,625985534452,24541241,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.147466
+b1df765f-3f7b-496c-bc4c-b16a0d442e93,625985828095,25896478,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:00:40.178149
+0265b1ae-bd72-4d59-96eb-ff3067f71a9d,625985828095,25896478,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:40.181930
+c34aecd8-5088-4820-a3fb-28153fe4744f,625985828095,25896478,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.185408
+a6c5f458-7746-40b5-b4c9-dbf195063c4c,625985828095,25896478,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.191516
+62cd6ef8-b30f-4378-919d-cbe21ff3133c,625985828095,25896478,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.194968
+530379ce-d5e1-4631-a3aa-c83ad2985374,625985828095,25896478,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:40.198278
+8ab16719-ba73-4bab-a765-7a02988f8a4a,625985828095,25896478,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.201583
+ddfcb5ab-a372-4490-9e7e-b2b39bca7e00,625985828095,25896478,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.204982
+04934742-67e4-45e3-8953-ca3a69763a46,625985828095,25896478,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.208349
+d3e2d153-310e-4b78-a883-eeb2ea4b19d3,625985828095,25896478,Section 3: Communication Quality,Professional Tone,0.7,True,PASS sentiment:0.20 empathy:2,sentiment_analysis,2026-03-16 10:00:40.211531
+c00017fd-3dd4-4ee7-add5-a215f7096a3f,625985828095,25896478,Section 3: Communication Quality,Clear Explanation,0.4,True,PASS instructions:4,sentiment_analysis,2026-03-16 10:00:40.215526
+54b5743e-ac92-4955-a593-df7263614d46,625985828095,25896478,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.219097
+02f9d058-c84a-4726-b470-a79ed88c2679,626072760929,22354114,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:40.276114
+3de71f85-f72f-49e5-a8b2-3437a1f06526,626072760929,22354114,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:40.279635
+a4e23e09-7ddf-4d9c-9f01-a81c3e6faf52,626072760929,22354114,Section 1: Offer Assistance,Offer Assistance,1.0,True,"PASS — how can i assist, tell me how",keyword_match,2026-03-16 10:00:40.283075
+6e3c023b-658d-4146-a303-e3fca3fca45f,626072760929,22354114,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — just to confirm,keyword_match,2026-03-16 10:00:40.286368
+76cca9b8-d90b-41c1-a88d-6f1b16abf74b,626072760929,22354114,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.290216
+ba41c1e8-1100-4cfd-b47e-201b6b688f0b,626072760929,22354114,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:40.293654
+9e58f7eb-f2e8-4464-a3e4-b63098260562,626072760929,22354114,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.296867
+63470487-c408-4479-8128-4f5da4dbf80f,626072760929,22354114,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.300012
+f0e61e3f-7214-4496-8180-192d04ada4f9,626072760929,22354114,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — bye bye,keyword_match,2026-03-16 10:00:40.303430
+d5bcf4ef-1a0e-468e-a6ae-a183b40d1435,626072760929,22354114,Section 3: Communication Quality,Professional Tone,0.74,True,PASS sentiment:0.29 empathy:2,sentiment_analysis,2026-03-16 10:00:40.306962
+ee3cd921-b166-4273-bf98-2e6ab9e1624b,626072760929,22354114,Section 3: Communication Quality,Clear Explanation,0.6,True,PASS instructions:6,sentiment_analysis,2026-03-16 10:00:40.310692
+6bfac37c-08bd-4893-b11e-70bd97ca2a53,626072760929,22354114,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.316727
+7c7ab926-5949-4ec6-8195-7b91772271ab,626073989094,28585315,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:40.383805
+316c391d-c967-41a8-a458-177bad3bd9b1,626073989094,28585315,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:40.390137
+9371574b-228e-4b31-aa2a-5b4d840f1b35,626073989094,28585315,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.394930
+267a4871-57ec-4463-8642-9a71d7525822,626073989094,28585315,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i understand,keyword_match,2026-03-16 10:00:40.399642
+259b5fd6-a183-4566-8e8e-fbdbb689e39d,626073989094,28585315,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.403837
+d6be9d59-7280-4c8c-9098-111d5eac6df5,626073989094,28585315,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.411804
+ba509267-d651-41c5-a7ba-9d55c2dadfaa,626073989094,28585315,Section 2: Problem Resolution,Escalation Handling,1.0,True,"PASS — reach out, follow up",keyword_match,2026-03-16 10:00:40.416919
+e74b5ffb-cad7-46da-a630-9d76a5b33ea8,626073989094,28585315,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.421801
+6e2c2a2c-3eaa-4022-8b4e-924e30a95b71,626073989094,28585315,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.425755
+7247c2cf-4314-4987-8e15-c8fb74c4cd90,626073989094,28585315,Section 3: Communication Quality,Professional Tone,0.91,True,PASS sentiment:0.22 empathy:6,sentiment_analysis,2026-03-16 10:00:40.429481
+8ce203d2-53fc-41be-abe1-ab8d7ac0157c,626073989094,28585315,Section 3: Communication Quality,Clear Explanation,1.0,True,PASS instructions:11,sentiment_analysis,2026-03-16 10:00:40.433412
+1db22c63-3c30-4a42-ae68-d56e6ff47f70,626073989094,28585315,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.438520
+e70e8510-dc82-409a-9e4d-c4ac7dbec790,626188986410,26363514,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:40.484593
+adc9b01d-b019-42f1-abe4-f551e7463d96,626188986410,26363514,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:40.488119
+ded36272-2a7f-4b88-868a-9175bd3343e2,626188986410,26363514,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:40.491514
+2ef8a043-7efc-49e0-b62d-10f3f9d7d7d8,626188986410,26363514,Section 2: Problem Resolution,Active Listening,1.0,True,"PASS — just to confirm, i see",keyword_match,2026-03-16 10:00:40.494841
+7bf57c15-1af8-4f65-9201-3d3f2ec9ba51,626188986410,26363514,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.498228
+bbc4a8de-c298-40f6-af7b-2b66a5e50656,626188986410,26363514,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:40.501954
+578280e9-2c65-43a0-ae04-e03ab0227904,626188986410,26363514,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — level 2,keyword_match,2026-03-16 10:00:40.505523
+620d54a2-1769-45f4-9402-f54635726c65,626188986410,26363514,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.508696
+2d20b357-7e6c-4e9f-b4cd-a9877cf5715b,626188986410,26363514,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a great, great day",keyword_match,2026-03-16 10:00:40.511808
+dff919ca-0e4e-4d20-9ca0-943fbd983752,626188986410,26363514,Section 3: Communication Quality,Professional Tone,0.85,True,PASS sentiment:0.30 empathy:4,sentiment_analysis,2026-03-16 10:00:40.517015
+269ddd24-289d-427d-b16d-5766e01dfcbf,626188986410,26363514,Section 3: Communication Quality,Clear Explanation,0.7,True,PASS instructions:7,sentiment_analysis,2026-03-16 10:00:40.520300
+e91ffdbe-759e-4b4f-a2fa-60b572eb7e91,626188986410,26363514,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.525956
+ec155015-2fad-4093-85ba-ed5533f8a1a4,626189712437,25645142,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:40.610668
+f64bfc4b-6f57-4cd2-90a3-c4d0a8b2e5d6,626189712437,25645142,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:40.615733
+082af9f3-3d43-4b6b-8052-5664e481fc19,626189712437,25645142,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.620617
+33752698-e922-4211-823e-8c57a5be890c,626189712437,25645142,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:40.626626
+6302ff23-4192-4c7c-b9a9-90a3d6d6f1aa,626189712437,25645142,Section 2: Problem Resolution,Resolution Provided,1.0,True,"PASS — resolved, successfully",keyword_match,2026-03-16 10:00:40.632335
+47aa5fa7-4dfe-44eb-b373-b19ad29a331c,626189712437,25645142,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:40.637174
+24d75cad-add7-4826-80b2-b2a28cf495b6,626189712437,25645142,Section 2: Problem Resolution,Escalation Handling,1.0,True,"PASS — internal team, reach out",keyword_match,2026-03-16 10:00:40.642817
+0cb82fac-a2f0-48ce-8ce3-cdc6bf82b52f,626189712437,25645142,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.653966
+3b57cbc4-4c7d-4ad2-b47f-ec668f999acb,626189712437,25645142,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.669295
+725e3981-8a73-46a0-9368-b9d3a5e76c51,626189712437,25645142,Section 3: Communication Quality,Professional Tone,0.7,True,PASS sentiment:0.21 empathy:2,sentiment_analysis,2026-03-16 10:00:40.679788
+b5055be4-8781-42f4-991f-e7958e8cd6b6,626189712437,25645142,Section 3: Communication Quality,Clear Explanation,1.0,True,PASS instructions:10,sentiment_analysis,2026-03-16 10:00:40.684118
+c6411135-bec0-4bc4-a800-30e06bd6cfd8,626189712437,25645142,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.690708
+ec71f55a-7b0b-4eed-8c49-2bcb43bc5f12,626190323136,25465231,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:00:40.848523
+c843570f-6d63-4045-a6cb-3e67b52f3e10,626190323136,25465231,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:40.852678
+f08a76b4-353b-4f0a-ae72-a7564acd0f00,626190323136,25465231,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.856360
+246b5719-3c37-4fe7-a16d-35ff7bd78079,626190323136,25465231,Section 2: Problem Resolution,Active Listening,1.0,True,"PASS — just to confirm, i understand",keyword_match,2026-03-16 10:00:40.859727
+87b42a9c-66a0-4f97-8489-7bdbbb612f94,626190323136,25465231,Section 2: Problem Resolution,Resolution Provided,1.0,True,"PASS — fixed, all set",keyword_match,2026-03-16 10:00:40.862993
+bc40ad8d-b960-41ca-af55-8a1e9031c2d4,626190323136,25465231,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.866407
+dc0f8536-42c6-474c-86cb-3e695d6e25a7,626190323136,25465231,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — reach out,keyword_match,2026-03-16 10:00:40.869687
+2b75f29c-f102-4783-800f-b02ea007319b,626190323136,25465231,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.873570
+5a6180ce-4f52-40a7-ad17-fbd1e11b791f,626190323136,25465231,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.876873
+bcc7307d-ea42-4b5d-b157-7fce341d999d,626190323136,25465231,Section 3: Communication Quality,Professional Tone,0.96,True,PASS sentiment:0.33 empathy:7,sentiment_analysis,2026-03-16 10:00:40.880230
+9429e6f4-73cc-4e29-9002-189289b4f914,626190323136,25465231,Section 3: Communication Quality,Clear Explanation,1.0,True,PASS instructions:10,sentiment_analysis,2026-03-16 10:00:40.884140
+c1184667-5281-4127-860e-35ff521843cf,626190323136,25465231,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.888688
+117c2b9e-cd83-42d6-887c-ee71f2efb0ab,626299189651,61534982,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:00:40.927891
+7fae7c64-a830-4e9c-ac81-278831e6cb41,626299189651,61534982,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:40.931685
+810fdfb3-4cac-426c-8fe7-076a7a34aa79,626299189651,61534982,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:40.941729
+23f46b25-6220-48a9-806e-53f47c45b7a6,626299189651,61534982,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.944925
+583b2573-d424-4855-9049-485c5b6e416e,626299189651,61534982,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.947415
+189b80c2-c363-4621-a6ae-ab1f1884b241,626299189651,61534982,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:40.953838
+d3bb6d5b-25b1-4082-8e9b-5b719bac5707,626299189651,61534982,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.957587
+054ee2cf-64aa-4a9f-a7e6-479d3cdc6bd8,626299189651,61534982,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.960799
+ee9167ba-b598-426d-aeed-27d7d9786013,626299189651,61534982,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:40.964171
+6baebd65-dd08-4c64-b9cc-3d3dd5a2e9ab,626299189651,61534982,Section 3: Communication Quality,Professional Tone,0.77,True,PASS sentiment:0.34 empathy:2,sentiment_analysis,2026-03-16 10:00:40.967593
+6ff13049-3979-4a40-aba2-21b0d40b104a,626299189651,61534982,Section 3: Communication Quality,Clear Explanation,0.7,True,PASS instructions:7,sentiment_analysis,2026-03-16 10:00:40.971017
+06076f0c-b23e-46ff-aa1e-e893644aaf88,626299189651,61534982,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:40.974138
+3e1ac1fc-a68e-4ba2-9b8e-f483a26a0a26,626299406562,24165398,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:41.009558
+a409d635-c449-4007-a667-f6c769f3a670,626299406562,24165398,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:41.015001
+082e98be-ea36-45de-91da-c4d8bd404936,626299406562,24165398,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:41.023063
+ffcf968f-a23e-4d18-bdec-1fc51fdf44db,626299406562,24165398,Section 2: Problem Resolution,Active Listening,1.0,True,"PASS — just to confirm, i understand",keyword_match,2026-03-16 10:00:41.027481
+cc7b5c77-1256-43be-a515-e62c4f6c21e3,626299406562,24165398,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — working correctly,keyword_match,2026-03-16 10:00:41.031567
+9d8b6e02-f1ab-42de-a9dc-9b13f4283cc5,626299406562,24165398,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.037536
+5068a004-49c0-4a90-80b0-820be1627c0f,626299406562,24165398,Section 2: Problem Resolution,Escalation Handling,1.0,True,"PASS — reach out, follow up",keyword_match,2026-03-16 10:00:41.041497
+2f0edf2b-5f71-4515-aee7-67426342565a,626299406562,24165398,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.044792
+b044e778-cdfd-4521-a54d-1da6330bd58d,626299406562,24165398,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.048702
+fef9fdfc-571a-42ba-a91f-4d3d23e3e512,626299406562,24165398,Section 3: Communication Quality,Professional Tone,0.83,True,PASS sentiment:0.16 empathy:5,sentiment_analysis,2026-03-16 10:00:41.052733
+e1c5bb9f-1c3c-4519-9704-783cf37a33b1,626299406562,24165398,Section 3: Communication Quality,Clear Explanation,0.4,True,PASS instructions:4,sentiment_analysis,2026-03-16 10:00:41.056091
+02cd0ccd-d04c-4d35-9981-dceb9118265f,626299406562,24165398,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:41.059595
+a7f1fe3d-ec26-4392-80ce-de9e770b4d30,626299447825,24141565,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:41.127421
+debab7e2-8fef-42f3-aaa0-4b6bf96aca61,626299447825,24141565,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:41.132299
+5ec440fa-d21d-40b6-a96b-a2b93404415e,626299447825,24141565,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.136536
+2cf575c2-d0ca-44c8-92af-7478a1a23f53,626299447825,24141565,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.140074
+81402cdf-dff5-4149-afa6-55b294a42c22,626299447825,24141565,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — all set,keyword_match,2026-03-16 10:00:41.142753
+fa1a6046-01fc-4b5c-9a2a-e166fab27eaf,626299447825,24141565,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.144983
+1005d541-228e-4017-839b-52ecdc75565a,626299447825,24141565,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — follow up,keyword_match,2026-03-16 10:00:41.147168
+9d721427-889e-419a-93d1-90b4c6ed6ac5,626299447825,24141565,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, help you with today",keyword_match,2026-03-16 10:00:41.149893
+6930cd2a-14d5-42f2-9fc4-00f8d6fb9107,626299447825,24141565,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.153240
+cba7d54f-4e8d-422e-ba75-93c9ee0b3ae7,626299447825,24141565,Section 3: Communication Quality,Professional Tone,0.77,True,PASS sentiment:0.13 empathy:4,sentiment_analysis,2026-03-16 10:00:41.156898
+c399db6a-d3f5-47a7-b083-ce77463c8331,626299447825,24141565,Section 3: Communication Quality,Clear Explanation,1.0,True,PASS instructions:10,sentiment_analysis,2026-03-16 10:00:41.161300
+f396e15f-9235-4899-ac45-a1c748612c43,626299447825,24141565,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:41.166111
+208b1436-9f77-42f9-9474-f29d5731e0d6,626300245831,28787456,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:41.240816
+24aac87b-b704-449a-bb26-389209b392db,626300245831,28787456,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:41.245389
+9bbb5955-0754-4485-9341-aba1e30cc409,626300245831,28787456,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i assist,keyword_match,2026-03-16 10:00:41.249156
+8942792c-9880-450e-adb0-da98941bf41f,626300245831,28787456,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:41.253759
+fb20c4e0-b530-4153-b1ea-b4183403ce9b,626300245831,28787456,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.257362
+69c958d1-5d8c-4a26-8783-e52d6826adf7,626300245831,28787456,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.261595
+b636a5fd-af60-4554-bd77-abc3e3a5ba9a,626300245831,28787456,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.268472
+d78d077f-e2e0-4c6b-b08c-e13f370de5c4,626300245831,28787456,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.274685
+01875d89-8162-45b2-a7be-6db9b32d4071,626300245831,28787456,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — have a wonderful,keyword_match,2026-03-16 10:00:41.278364
+f17ecff4-fe45-4242-a19b-a9f44d6a30a0,626300245831,28787456,Section 3: Communication Quality,Professional Tone,0.79,True,PASS sentiment:0.28 empathy:3,sentiment_analysis,2026-03-16 10:00:41.283131
+bc3cb203-2bfa-40c7-8dd4-50aebfd34632,626300245831,28787456,Section 3: Communication Quality,Clear Explanation,0.7,True,PASS instructions:7,sentiment_analysis,2026-03-16 10:00:41.287915
+87dcd551-24b8-4515-900f-000afa5d015f,626300245831,28787456,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:00:41.296426
+6856f920-f6f1-481e-a91d-7079618485df,626397759305,25454653,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thanks for calling, this is",keyword_match,2026-03-16 10:00:41.344449
+c703f2b2-637f-4b92-8f4d-33d7398a70b9,626397759305,25454653,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:41.348195
+555e2ee6-02ee-461c-8d03-2e799c25d6d9,626397759305,25454653,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:41.353867
+cd1a6b14-0dcc-4190-b4c4-4aebfaa2e3d8,626397759305,25454653,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i understand,keyword_match,2026-03-16 10:00:41.359126
+0b41382e-7b65-4789-836a-c39874121db0,626397759305,25454653,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.363388
+c9305e90-5ad6-4254-be1c-53f7b3a4365b,626397759305,25454653,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:41.367249
+75fc09df-8094-4b31-a8de-7347cb9ff0f2,626397759305,25454653,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.370982
+95c22b4a-8880-4b33-886c-43533475a0a8,626397759305,25454653,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — anything else,keyword_match,2026-03-16 10:00:41.374987
+bbe7635d-b40d-4bf9-a4f2-9f70b77834d2,626397759305,25454653,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.379058
+03348817-252e-4de4-b29b-7b69f0e8d7c7,626397759305,25454653,Section 3: Communication Quality,Professional Tone,0.81,True,PASS sentiment:0.21 empathy:4,sentiment_analysis,2026-03-16 10:00:41.385995
+f1ab6f7c-b188-48ff-84bf-0243d774f3a4,626397759305,25454653,Section 3: Communication Quality,Clear Explanation,0.8,True,PASS instructions:8,sentiment_analysis,2026-03-16 10:00:41.392390
+abd4daa9-bccd-4cf6-9596-5ff611d49f54,626397759305,25454653,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:41.396450
+6b512ac2-75f1-4ec6-b95f-efa801125d96,626397931645,25465231,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:00:41.478686
+ab4535b9-f23b-402b-8322-a82f1119faf8,626397931645,25465231,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:41.484171
+89a8ad37-ecae-4a3c-8a4b-60b47ac6eace,626397931645,25465231,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.487823
+39df77fd-d23c-4ea2-8efb-e49ae59998d3,626397931645,25465231,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.491112
+3b2e79cd-d438-4324-9200-d2dcb5b94b74,626397931645,25465231,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — all set,keyword_match,2026-03-16 10:00:41.494433
+8744a999-6231-4ac4-9f40-6c204c7764a4,626397931645,25465231,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.498114
+ccc0c310-1a7b-4705-b01d-42524412d1a6,626397931645,25465231,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — escalate,keyword_match,2026-03-16 10:00:41.502187
+d7f6151b-6eb8-432b-a31e-f858eb51d04a,626397931645,25465231,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — all set,keyword_match,2026-03-16 10:00:41.505624
+af018e72-b93b-48e8-939a-02a0f5a9cba0,626397931645,25465231,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.509514
+99cb8255-9258-4011-bd0a-a5e2ce6302d1,626397931645,25465231,Section 3: Communication Quality,Professional Tone,0.82,True,PASS sentiment:0.33 empathy:3,sentiment_analysis,2026-03-16 10:00:41.512906
+cb44d515-5d16-47d2-a0cf-9ce506a5e4d3,626397931645,25465231,Section 3: Communication Quality,Clear Explanation,0.9,True,PASS instructions:9,sentiment_analysis,2026-03-16 10:00:41.517312
+f8944984-e63d-4d80-8a01-79901f42d797,626397931645,25465231,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:41.521581
+cb86d371-ad37-4368-8bd9-23d5fadef8e2,626398026596,21121124,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:41.600779
+352be4ef-4643-4b0b-a902-7ffc6d497d83,626398026596,21121124,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:41.604615
+d0808e47-231d-493c-99e2-040adc6b731e,626398026596,21121124,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:41.608008
+3fe058fd-b6f7-4220-95f4-cccd5aac7508,626398026596,21121124,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:00:41.611282
+1b7d44ab-69a6-4a6e-b634-131dc73ca765,626398026596,21121124,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.616279
+b27f6c27-8e1c-4abd-9ffc-f35470f85e08,626398026596,21121124,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.619847
+806d29d1-9276-42a3-a869-4f8674c029d5,626398026596,21121124,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.623140
+bc0539d3-c550-4c4f-8034-bd23de2df0bc,626398026596,21121124,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.626781
+76c7b45e-f738-4873-b346-a60f8762f935,626398026596,21121124,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.630035
+60cd52f3-9221-4d61-ac67-4b86925d8168,626398026596,21121124,Section 3: Communication Quality,Professional Tone,0.6,True,PASS sentiment:0.11 empathy:1,sentiment_analysis,2026-03-16 10:00:41.633796
+fa2f8999-238d-447f-ac04-1352feecd288,626398026596,21121124,Section 3: Communication Quality,Clear Explanation,0.8,True,PASS instructions:8,sentiment_analysis,2026-03-16 10:00:41.637538
+d46ecdf8-6362-41bc-9c3e-c5d6ee4e4858,626398026596,21121124,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:00:41.641098
+8653f6e1-770e-41ee-add5-352c0f21c945,626398259531,28787456,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:41.706595
+36dca474-fe93-4128-bf9d-e6c690dc19d3,626398259531,28787456,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:00:41.710187
+e4255003-d895-4a0b-95bf-c2de95ebb7ab,626398259531,28787456,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i assist,keyword_match,2026-03-16 10:00:41.715993
+80acc65d-d659-4794-ba63-845c49e2cc9d,626398259531,28787456,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.720036
+ccdeb425-d593-4997-9c26-5df42d48b72b,626398259531,28787456,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.723393
+c8a00150-fc1e-4f26-ad32-e996959c9f09,626398259531,28787456,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:00:41.726906
+13f38368-306a-45d5-a9f7-1b3dbba89b28,626398259531,28787456,Section 2: Problem Resolution,Escalation Handling,1.0,True,PASS — follow up,keyword_match,2026-03-16 10:00:41.730156
+559c0ab2-47df-4c05-b0fe-0e58d569b476,626398259531,28787456,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.733799
+b78282f6-b16c-42ab-9d70-41d311c055c1,626398259531,28787456,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a wonderful, bye bye",keyword_match,2026-03-16 10:00:41.738930
+3fae6096-ea8a-44b7-80f0-195f404af6d8,626398259531,28787456,Section 3: Communication Quality,Professional Tone,0.86,True,PASS sentiment:0.22 empathy:5,sentiment_analysis,2026-03-16 10:00:41.742459
+3b49bcac-02ee-482a-ad19-dc35f7fd61f0,626398259531,28787456,Section 3: Communication Quality,Clear Explanation,1.0,True,PASS instructions:10,sentiment_analysis,2026-03-16 10:00:41.745225
+13935dd8-f82b-45e5-b4c5-756d6e665d47,626398259531,28787456,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:41.747455
+8b6094e3-706a-4891-bd93-4c01e7a33637,626398290641,29984756,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:41.785669
+5477db3e-bfb7-4b1d-9681-7ed31e3dc453,626398290641,29984756,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 1/2,keyword_match,2026-03-16 10:00:41.791185
+d9ec5e1d-6fb8-42ae-ac98-5cdba34a2815,626398290641,29984756,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:41.795323
+c861b663-695d-43af-9ba2-9f53535f370b,626398290641,29984756,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.798516
+05e4d520-8c31-46a2-9b36-269b19d158d3,626398290641,29984756,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — all set,keyword_match,2026-03-16 10:00:41.801882
+640f0575-710e-4c04-bc8f-c1453490dcd4,626398290641,29984756,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.805276
+2e0ba95b-922b-498e-9576-5370d304ffdb,626398290641,29984756,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.809360
+0a413990-9837-47e5-9c25-2dfe220af89a,626398290641,29984756,Section 4: Call Closing,Issue Confirmation,1.0,True,PASS — all set,keyword_match,2026-03-16 10:00:41.812865
+d424b77f-1714-4d6e-993e-a64cd295833b,626398290641,29984756,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.816414
+b998bbac-a6cb-483c-b6c2-903f8cee9344,626398290641,29984756,Section 3: Communication Quality,Professional Tone,0.78,True,PASS sentiment:0.25 empathy:3,sentiment_analysis,2026-03-16 10:00:41.820845
+857991c4-785c-494c-9307-15ed3bada002,626398290641,29984756,Section 3: Communication Quality,Clear Explanation,0.8,True,PASS instructions:8,sentiment_analysis,2026-03-16 10:00:41.825820
+11186df1-50ea-418f-8d5e-1a7d8dea44ec,626398290641,29984756,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:41.831475
+59e7a999-058c-461e-9c24-328eddc71807,626398360524,26541524,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:00:41.870588
+d8f191ee-1038-4065-a713-c491f55124e6,626398360524,26541524,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, callback number",keyword_match,2026-03-16 10:00:41.877432
+22e3ca8a-44e9-4159-9259-7ed921911a8f,626398360524,26541524,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:00:41.881632
+14faa2e5-5065-4719-b74b-7d6978c4ae32,626398360524,26541524,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.886838
+9c81ac41-7f3e-4cac-a349-838074c8a06d,626398360524,26541524,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.891716
+3968dff6-b26e-4080-99da-87ba8a447b08,626398360524,26541524,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.895624
+3674e6c8-4b86-42a6-91c6-1e141d6fefa6,626398360524,26541524,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.903352
+e1dffd69-9e43-4e73-99a1-1eae88e7cd62,626398360524,26541524,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.907479
+3626fde8-2387-4017-90b6-06a63034f81a,626398360524,26541524,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:00:41.912981
+ca4066b3-95cf-4ee3-b74b-63652a2eb5ff,626398360524,26541524,Section 3: Communication Quality,Professional Tone,0.78,True,PASS sentiment:0.26 empathy:3,sentiment_analysis,2026-03-16 10:00:41.916725
+5d5c968e-f448-47d0-83e9-afa59e291158,626398360524,26541524,Section 3: Communication Quality,Clear Explanation,0.6,True,PASS instructions:6,sentiment_analysis,2026-03-16 10:00:41.920161
+d74133ec-e561-4739-aa8c-989b2000db8e,626398360524,26541524,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:00:41.926093
+bfbacd13-d5a4-4aa7-b5f2-d1f97b2b3e0a,177365526814,28787458,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:01:08.377710
+582fc876-c063-441c-b77d-7beccacff3d1,177365526814,28787458,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, callback number",keyword_match,2026-03-16 10:01:08.400761
+c0bd1e5b-9f13-43d8-b4a3-92028347414a,177365526814,28787458,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:01:08.407288
+700c91d5-95a7-4a25-8619-226598ee4bce,177365526814,28787458,Section 2: Problem Resolution,Active Listening,1.0,True,"PASS — i completely understand, i understand",keyword_match,2026-03-16 10:01:08.412372
+e2213b08-ed97-45c8-84c5-2be551d35f5f,177365526814,28787458,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — working correctly,keyword_match,2026-03-16 10:01:08.419627
+cf1b54b0-670d-41f2-8ca7-e6d3c3e2032f,177365526814,28787458,Section 2: Problem Resolution,Hold Protocol,1.0,True,"PASS — brief hold, thank you so much for your patience",keyword_match,2026-03-16 10:01:08.433029
+6bf82866-44da-43eb-8e93-9254c4676bfb,177365526814,28787458,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:08.439665
+750f6d10-d311-4022-afb5-f599c927d02a,177365526814,28787458,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, is there anything",keyword_match,2026-03-16 10:01:08.444502
+45420fb9-a11d-44ba-afde-f6471b2bb5c0,177365526814,28787458,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a wonderful, goodbye",keyword_match,2026-03-16 10:01:08.447442
+fe211e31-0c21-46ad-aaf3-b6f1eac3d9a7,177365526814,28787458,Section 3: Communication Quality,Professional Tone,0.89,True,PASS sentiment:0.27 empathy:5,sentiment_analysis,2026-03-16 10:01:08.458780
+69f49b78-bab4-4ade-96a9-c0a4aa79de65,177365526814,28787458,Section 3: Communication Quality,Clear Explanation,0.8,True,PASS instructions:8,sentiment_analysis,2026-03-16 10:01:08.462602
+610a567f-2bfd-4f5a-b7a8-3a51b94a408c,177365526814,28787458,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:01:08.471826
+95729697-9b1e-4835-9249-bfc53eecc045,177365526873,28787457,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:01:08.873399
+93c32e9f-066c-43e8-8579-7c49d696cd2c,177365526873,28787457,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:01:08.881836
+5628680c-7125-4ae4-995d-efbf0c5263f2,177365526873,28787457,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:08.885252
+ca8c4665-769a-4cd4-91b0-a4392cefd717,177365526873,28787457,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:01:08.889506
+19484c52-18b7-432a-a5fc-476abbfd386d,177365526873,28787457,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:08.893023
+6c06a7b5-05d8-4a44-8b5e-3d9435d0a5af,177365526873,28787457,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:08.896483
+4cc4b54e-ef4f-4160-ab76-1ca5609675cf,177365526873,28787457,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:08.899620
+f7914398-542f-4e8c-9cf2-a8802e733c77,177365526873,28787457,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:08.902908
+3a810aa0-7bca-4d84-a840-3ce5c0fc7e60,177365526873,28787457,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — goodbye,keyword_match,2026-03-16 10:01:08.906254
+713a87a6-80b8-416d-9aa0-7cccc90b6d67,177365526873,28787457,Section 3: Communication Quality,Professional Tone,0.56,True,PASS sentiment:0.12 empathy:0,sentiment_analysis,2026-03-16 10:01:08.909408
+614ab0d4-9cf3-4bc0-afb0-258a4c070ab5,177365526873,28787457,Section 3: Communication Quality,Clear Explanation,0.0,False,FAIL instructions:0,sentiment_analysis,2026-03-16 10:01:08.912624
+f85dd66b-b1b0-43a0-9da5-c2026c015be3,177365526873,28787457,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:01:08.918050
+494d6e45-cf4d-40f3-a4c6-ef11e36c97ed,177365526930,28787460,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:01:09.665331
+f88c373e-654e-4666-873d-5ffb5ca0ac84,177365526930,28787460,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:01:09.697496
+454d12d9-dd47-4484-822a-3fbe5dcd1dcf,177365526930,28787460,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:09.709511
+a72a8586-d054-4e39-a6a9-c323fd13ad88,177365526930,28787460,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:01:09.717707
+3fe2b3f8-e306-4f54-849e-273e50fafe33,177365526930,28787460,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:09.725873
+87cf5d0d-c7d7-4775-ab0d-4cb882045188,177365526930,28787460,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:09.729365
+0037cb94-1d78-4708-a589-067fb3cbab16,177365526930,28787460,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:09.732607
+e599c56f-43fc-4ae2-9922-97d780c3eaa3,177365526930,28787460,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:09.735743
+ca212ad2-5193-4d2f-839c-a960eb727341,177365526930,28787460,Section 4: Call Closing,Professional Farewell,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:09.739027
+4dcc6ef2-3f4f-48d7-8855-e6264843b4e1,177365526930,28787460,Section 3: Communication Quality,Professional Tone,0.67,True,PASS sentiment:0.33 empathy:0,sentiment_analysis,2026-03-16 10:01:09.741755
+db59d675-db30-4727-93ab-3f74afa5e7b4,177365526930,28787460,Section 3: Communication Quality,Clear Explanation,0.0,False,FAIL instructions:0,sentiment_analysis,2026-03-16 10:01:09.744006
+96876e88-11bd-459b-bc34-57429cf74755,177365526930,28787460,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:01:09.746067
+3c09c6cf-22a6-426d-925a-bffba409f591,177365527016,28787460,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, you have reached",keyword_match,2026-03-16 10:01:10.213512
+028573a6-f8e6-414e-89e7-e2f493034b15,177365527016,28787460,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, user id",keyword_match,2026-03-16 10:01:10.224015
+bc3732ee-11a2-4a8c-8805-473478adc75e,177365527016,28787460,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:01:10.228018
+5c4d6bc5-5091-41eb-808c-e91daba07465,177365527016,28787460,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i completely understand,keyword_match,2026-03-16 10:01:10.232137
+e1214ef8-0a22-446f-96af-e157011316ec,177365527016,28787460,Section 2: Problem Resolution,Resolution Provided,1.0,True,"PASS — sorted out, successfully",keyword_match,2026-03-16 10:01:10.237000
+a3b8fdf3-83ae-4392-833a-95210b390d08,177365527016,28787460,Section 2: Problem Resolution,Hold Protocol,1.0,True,"PASS — brief hold, thank you so much for your patience",keyword_match,2026-03-16 10:01:10.240176
+e77e6a5b-efae-4a3e-81b3-5e414ccba6cb,177365527016,28787460,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:10.243062
+32c4e482-1548-4bfe-b1ca-4061424af0e6,177365527016,28787460,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, is there anything",keyword_match,2026-03-16 10:01:10.245498
+28a2deab-0ae5-47a0-aaf1-486f1a1983ef,177365527016,28787460,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a wonderful, goodbye",keyword_match,2026-03-16 10:01:10.248003
+fba7b422-df21-4b8e-bc16-921dc6404d34,177365527016,28787460,Section 3: Communication Quality,Professional Tone,0.98,True,PASS sentiment:0.35 empathy:6,sentiment_analysis,2026-03-16 10:01:10.250822
+dee50e28-b08c-44c8-8807-12483c51c91c,177365527016,28787460,Section 3: Communication Quality,Clear Explanation,0.4,True,PASS instructions:4,sentiment_analysis,2026-03-16 10:01:10.254577
+a62dd70a-bf9e-482b-bc1a-661098a21973,177365527016,28787460,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:01:10.257902
+f3fb7f8d-4d0a-4aca-a780-0af01f0b28bc,177365527050,28787459,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, you have reached",keyword_match,2026-03-16 10:01:10.540699
+fa58fe1c-d52a-4c64-b10f-abc27f43b07a,177365527050,28787459,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, user id",keyword_match,2026-03-16 10:01:10.548471
+9011ddec-d9ab-498f-b44e-2177a8b25237,177365527050,28787459,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:01:10.552064
+b076590c-6109-4e78-8473-96d39354ad23,177365527050,28787459,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i completely understand,keyword_match,2026-03-16 10:01:10.555677
+b5b2ac4f-ddc9-4179-b449-884d69eea8e2,177365527050,28787459,Section 2: Problem Resolution,Resolution Provided,1.0,True,"PASS — sorted out, successfully",keyword_match,2026-03-16 10:01:10.558940
+5f2a34ba-e14b-4cba-b72c-aee1db57477a,177365527050,28787459,Section 2: Problem Resolution,Hold Protocol,1.0,True,"PASS — brief hold, thank you so much for your patience",keyword_match,2026-03-16 10:01:10.562898
+b4c13260-8b82-45b4-844e-eacd12d60d53,177365527050,28787459,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:01:10.567265
+fd75a59b-4c12-465b-bd74-4f2595487361,177365527050,28787459,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, is there anything",keyword_match,2026-03-16 10:01:10.570730
+40ce97e9-c9db-466b-93d5-bed9a465b805,177365527050,28787459,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a wonderful, goodbye",keyword_match,2026-03-16 10:01:10.574470
+046575e7-bcd1-4d41-be7e-afc4115bd6e2,177365527050,28787459,Section 3: Communication Quality,Professional Tone,0.98,True,PASS sentiment:0.35 empathy:6,sentiment_analysis,2026-03-16 10:01:10.583249
+3bcc1588-e23c-4cab-b54e-e36faf77a67d,177365527050,28787459,Section 3: Communication Quality,Clear Explanation,0.4,True,PASS instructions:4,sentiment_analysis,2026-03-16 10:01:10.587388
+2abcafc2-7ae0-41b7-9625-d15d61ceb634,177365527050,28787459,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:01:10.592540
+f2b0ef94-d2a4-4a6d-b534-d98f74b62def,177365533108,28787457,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:02:11.105347
+a5aed19b-8ec2-4632-9974-8a6b57f0d7da,177365533108,28787457,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, callback number",keyword_match,2026-03-16 10:02:11.113649
+671a08ce-2766-4840-9a51-56bd566c7776,177365533108,28787457,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:02:11.116994
+ae031221-9eb4-47be-b303-060e87eea730,177365533108,28787457,Section 2: Problem Resolution,Active Listening,1.0,True,"PASS — i completely understand, i understand",keyword_match,2026-03-16 10:02:11.120129
+8dbc43f7-14cf-44bd-a2f6-bfb59c04ac19,177365533108,28787457,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — working correctly,keyword_match,2026-03-16 10:02:11.124680
+2944340f-a160-4274-9244-d6d6c0842c3c,177365533108,28787457,Section 2: Problem Resolution,Hold Protocol,1.0,True,"PASS — brief hold, thank you so much for your patience",keyword_match,2026-03-16 10:02:11.127637
+7fd92474-b1c9-4d62-8446-73a233cdf82f,177365533108,28787457,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.130417
+3882b322-b705-438e-aafe-1ed3435a2b17,177365533108,28787457,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, is there anything",keyword_match,2026-03-16 10:02:11.133630
+852c3625-5c71-4f8a-acd7-2181b9deeb31,177365533108,28787457,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a wonderful, goodbye",keyword_match,2026-03-16 10:02:11.136696
+0183149c-8177-49f9-8456-bd141fc704b5,177365533108,28787457,Section 3: Communication Quality,Professional Tone,0.89,True,PASS sentiment:0.27 empathy:5,sentiment_analysis,2026-03-16 10:02:11.139305
+bf32e8af-8944-4880-9222-762d900c535b,177365533108,28787457,Section 3: Communication Quality,Clear Explanation,0.8,True,PASS instructions:8,sentiment_analysis,2026-03-16 10:02:11.141611
+ef84d081-f753-41f1-a0ff-f3714781fccd,177365533108,28787457,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:02:11.143567
+6f98165e-4a88-42fc-95aa-e445af4ebc71,177365533134,28787460,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:02:11.343188
+579b90b4-d2b9-4bae-8374-18a46fbcab14,177365533134,28787460,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:02:11.349587
+bbfef2bb-419b-488f-8260-9161e578b839,177365533134,28787460,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.352602
+f738dc1f-8d63-448e-95b2-6227efdb139e,177365533134,28787460,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i hear you,keyword_match,2026-03-16 10:02:11.357452
+3264062f-e087-445d-88c5-3a3c93424b9f,177365533134,28787460,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.360433
+1e7e4640-c642-4788-9074-1d70cc4f73e0,177365533134,28787460,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.363574
+344f7f1c-56a1-41b3-b04f-a8fe8f4b3a91,177365533134,28787460,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.366417
+7b8ae041-e03e-43c6-8434-616c6d006d77,177365533134,28787460,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.369541
+7895683f-f882-4f76-869e-c3334d2b28a4,177365533134,28787460,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — goodbye,keyword_match,2026-03-16 10:02:11.374426
+d03d45ca-a768-491b-95e4-c89e9f432163,177365533134,28787460,Section 3: Communication Quality,Professional Tone,0.62,True,PASS sentiment:0.25 empathy:0,sentiment_analysis,2026-03-16 10:02:11.377771
+8c47de7e-9c45-4f35-a57c-077e77007357,177365533134,28787460,Section 3: Communication Quality,Clear Explanation,0.1,False,FAIL instructions:1,sentiment_analysis,2026-03-16 10:02:11.380615
+68a8c58a-bd31-43b3-baa7-0131e699480f,177365533134,28787460,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:02:11.383425
+c86ce980-e05c-4259-abb5-fc1f78eae460,177365533156,28787457,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:02:11.554306
+de5d06e1-80ef-489c-925a-7be6a983f595,177365533156,28787457,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:02:11.561955
+1053d705-42f9-48b9-a61f-c8e292fa2672,177365533156,28787457,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.565427
+0b6c7851-fa10-4011-84a5-53c8934e9aa4,177365533156,28787457,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:02:11.568357
+875b1111-d043-4bd3-98cc-be67ab028d5d,177365533156,28787457,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.571114
+384ea566-1c8e-44f0-baa4-8a40696bf38d,177365533156,28787457,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.574912
+0dd46932-f89c-48b3-a207-a2514870aaba,177365533156,28787457,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.577942
+24b30605-36e4-432f-9875-1429e4375bc2,177365533156,28787457,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.581470
+1112fc5a-4376-4ee4-9964-2ebf2ba88c2a,177365533156,28787457,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — goodbye,keyword_match,2026-03-16 10:02:11.585007
+d18bfdee-7530-4cf3-934c-3d8a5fbe51a5,177365533156,28787457,Section 3: Communication Quality,Professional Tone,0.56,True,PASS sentiment:0.12 empathy:0,sentiment_analysis,2026-03-16 10:02:11.589352
+41090bfc-7a51-469d-839e-b0a2a1a0674c,177365533156,28787457,Section 3: Communication Quality,Clear Explanation,0.0,False,FAIL instructions:0,sentiment_analysis,2026-03-16 10:02:11.593733
+e5563e20-5b60-4b5b-a4bc-0bb3da08a53b,177365533156,28787457,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:02:11.598496
+9d00b172-bd06-43b0-a081-a20c1f86ecd3,177365533179,28787457,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, you have reached",keyword_match,2026-03-16 10:02:11.773391
+0811ad97-554e-4740-90e9-6316f5c4fc22,177365533179,28787457,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, user id",keyword_match,2026-03-16 10:02:11.781060
+af78032f-3690-48a7-9d81-70ebc172245f,177365533179,28787457,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:02:11.784078
+f70b1aa7-7c73-4eef-b1cd-602a391d4c05,177365533179,28787457,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i completely understand,keyword_match,2026-03-16 10:02:11.787359
+3ac04ca6-f967-490a-8e0b-53b94028bb17,177365533179,28787457,Section 2: Problem Resolution,Resolution Provided,1.0,True,"PASS — sorted out, successfully",keyword_match,2026-03-16 10:02:11.790360
+ef3b2ce4-4fbc-41cf-b157-aa951eb54f4f,177365533179,28787457,Section 2: Problem Resolution,Hold Protocol,1.0,True,"PASS — brief hold, thank you so much for your patience",keyword_match,2026-03-16 10:02:11.793385
+c690927e-bf0c-43b3-883e-ef97df9192e6,177365533179,28787457,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:02:11.796589
+da1c45e6-bb00-4c1a-99b8-bcf26068ad25,177365533179,28787457,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, is there anything",keyword_match,2026-03-16 10:02:11.799827
+203ecfac-a268-4245-95db-ca7609c481ac,177365533179,28787457,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a wonderful, goodbye",keyword_match,2026-03-16 10:02:11.803099
+fa9c9807-8339-4ec4-9e08-729680e0f7e4,177365533179,28787457,Section 3: Communication Quality,Professional Tone,0.98,True,PASS sentiment:0.35 empathy:6,sentiment_analysis,2026-03-16 10:02:11.806446
+f6d005b2-02a8-4373-8233-a59bcb994961,177365533179,28787457,Section 3: Communication Quality,Clear Explanation,0.4,True,PASS instructions:4,sentiment_analysis,2026-03-16 10:02:11.809376
+fe4a74be-3e90-4c78-a63b-365212940cc0,177365533179,28787457,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:02:11.812372
+aff572f9-6a0e-4110-876e-6d8c4a972493,177365533202,28787456,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:02:12.008046
+4449ce47-a3f7-42c5-870f-5c35161c2317,177365533202,28787456,Section 1: Offer Assistance,User Authentication,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:02:12.016573
+41be1a97-aaed-4db1-8d5e-3b101456d39d,177365533202,28787456,Section 1: Offer Assistance,Offer Assistance,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:02:12.019836
+a7f56e5c-0c49-42ec-af62-7515b6a6e25b,177365533202,28787456,Section 2: Problem Resolution,Active Listening,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:02:12.022909
+da44b0d5-a8b5-4067-98a9-26437c8b2293,177365533202,28787456,Section 2: Problem Resolution,Resolution Provided,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:02:12.026084
+ecde7037-0aef-4afc-862e-b75f95c8a873,177365533202,28787456,Section 2: Problem Resolution,Hold Protocol,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:02:12.029105
+dc60c695-243f-4344-b7c1-49bf5cea1727,177365533202,28787456,Section 2: Problem Resolution,Escalation Handling,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:02:12.032130
+b582a539-48d3-4bed-bf9e-af5d540470b9,177365533202,28787456,Section 4: Call Closing,Issue Confirmation,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:02:12.034957
+4443b6f8-acfb-4c71-bea4-88bde9016afb,177365533202,28787456,Section 4: Call Closing,Professional Farewell,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:02:12.037822
+b5124ee1-f68b-456c-8fe1-a74d6bfd53b1,177365533202,28787456,Section 3: Communication Quality,Professional Tone,0.0,False,SKIP-abandoned,sentiment_analysis,2026-03-16 10:02:12.040662
+f74abc2f-2838-4ac3-a94e-a9e44fb5a2c1,177365533202,28787456,Section 3: Communication Quality,Clear Explanation,0.0,False,SKIP-abandoned,sentiment_analysis,2026-03-16 10:02:12.042991
+76a7cd90-8a5d-4cb2-8df3-60aee23d73e4,177365533202,28787456,Section 4: Call Closing,Recap Provided,0.0,False,SKIP-abandoned,sentiment_analysis,2026-03-16 10:02:12.045242
+27321edc-8b94-4b83-8b1a-936ac04d5589,177365539232,28787457,Section 1: Offer Assistance,Greeting,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:03:12.285890
+2a89b2d8-6da9-4cb3-bcad-d83551846c0e,177365539232,28787457,Section 1: Offer Assistance,User Authentication,0.0,False,FAIL — found 0/2,keyword_match,2026-03-16 10:03:12.296514
+22ea90bb-5689-4666-8996-dcbba0c0cc65,177365539232,28787457,Section 1: Offer Assistance,Offer Assistance,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:12.300431
+d19a5dc1-89a9-4a7d-9a89-a6b6b29bc598,177365539232,28787457,Section 2: Problem Resolution,Active Listening,1.0,True,PASS — i see,keyword_match,2026-03-16 10:03:12.304305
+eb06717b-c104-4dbc-8b6b-2986a85b2dd5,177365539232,28787457,Section 2: Problem Resolution,Resolution Provided,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:12.308432
+2cc92338-33f2-416b-840c-98be050f7f40,177365539232,28787457,Section 2: Problem Resolution,Hold Protocol,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:12.312499
+4e7d6025-9e2f-4ca2-8fdd-aff952b18af6,177365539232,28787457,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:12.317257
+8a66e43b-1edc-4e9e-9893-fb9dd1d6834a,177365539232,28787457,Section 4: Call Closing,Issue Confirmation,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:12.321432
+9464ac37-3d4c-41f2-ac4b-fe329897dd63,177365539232,28787457,Section 4: Call Closing,Professional Farewell,1.0,True,PASS — goodbye,keyword_match,2026-03-16 10:03:12.325423
+d212018d-0a84-4637-85ec-89cbd78cac11,177365539232,28787457,Section 3: Communication Quality,Professional Tone,0.56,True,PASS sentiment:0.12 empathy:0,sentiment_analysis,2026-03-16 10:03:12.328424
+3209fb58-775d-4488-be69-85132a752f1b,177365539232,28787457,Section 3: Communication Quality,Clear Explanation,0.0,False,FAIL instructions:0,sentiment_analysis,2026-03-16 10:03:12.331798
+f280257f-7ea7-4b8c-80cb-f4dc63bc9a84,177365539232,28787457,Section 4: Call Closing,Recap Provided,0.0,False,FAIL,sentiment_analysis,2026-03-16 10:03:12.335109
+955f4eaf-2e6b-4c65-9c6d-c6e04eb71657,177365539256,28787456,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:03:12.537552
+9d57e419-0dcc-44de-979d-20df506a2a9a,177365539256,28787456,Section 1: Offer Assistance,User Authentication,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:03:12.544897
+64a17c93-c2bb-4da8-bf7f-f15ba8ec87fe,177365539256,28787456,Section 1: Offer Assistance,Offer Assistance,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:03:12.547946
+86676a1d-fb1c-4f96-b4fa-d2e0c8b17028,177365539256,28787456,Section 2: Problem Resolution,Active Listening,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:03:12.550812
+fb6ecb50-00b7-4f2e-a97a-b2c4fc53072b,177365539256,28787456,Section 2: Problem Resolution,Resolution Provided,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:03:12.553644
+2a24f06c-8213-4946-844d-4603517afec3,177365539256,28787456,Section 2: Problem Resolution,Hold Protocol,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:03:12.556517
+58f1f592-9d5a-4929-9425-042cb6b05d34,177365539256,28787456,Section 2: Problem Resolution,Escalation Handling,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:03:12.559319
+0741b302-9477-4e35-a775-1d9fedcc2cd7,177365539256,28787456,Section 4: Call Closing,Issue Confirmation,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:03:12.561999
+e70c3141-4f77-403a-967a-f05e14034896,177365539256,28787456,Section 4: Call Closing,Professional Farewell,0.0,False,SKIP-abandoned,keyword_match,2026-03-16 10:03:12.564741
+e867049b-6a7d-4698-91b6-dd4714be8d25,177365539256,28787456,Section 3: Communication Quality,Professional Tone,0.0,False,SKIP-abandoned,sentiment_analysis,2026-03-16 10:03:12.567444
+30267ef0-12dc-493f-992e-07bb5331aff6,177365539256,28787456,Section 3: Communication Quality,Clear Explanation,0.0,False,SKIP-abandoned,sentiment_analysis,2026-03-16 10:03:12.571474
+2de44a27-23de-4f28-b15c-1ea81a842db6,177365539256,28787456,Section 4: Call Closing,Recap Provided,0.0,False,SKIP-abandoned,sentiment_analysis,2026-03-16 10:03:12.576397
+cdc4d539-3fc7-4425-a2ee-eb839e798ed2,177365539281,28787457,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, my name is",keyword_match,2026-03-16 10:03:12.763765
+fb231401-5c37-4a64-a3ca-644b48d20c81,177365539281,28787457,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — first and last name, callback number",keyword_match,2026-03-16 10:03:12.775258
+a3e67d8d-1a37-4772-bd29-bfcc6b845d29,177365539281,28787457,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how can i help,keyword_match,2026-03-16 10:03:12.778761
+0e6a15b6-7b30-4c8b-b6fe-663904b0faf0,177365539281,28787457,Section 2: Problem Resolution,Active Listening,1.0,True,"PASS — i completely understand, i understand",keyword_match,2026-03-16 10:03:12.781736
+d121511f-40ce-4f52-aeb5-2cfef75de7b4,177365539281,28787457,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — working correctly,keyword_match,2026-03-16 10:03:12.784921
+5205a007-2800-4e77-89ff-1f17561f90e3,177365539281,28787457,Section 2: Problem Resolution,Hold Protocol,1.0,True,"PASS — brief hold, thank you so much for your patience",keyword_match,2026-03-16 10:03:12.787886
+373a82ed-c2fd-4984-9504-3418a5328973,177365539281,28787457,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:12.790689
+f1b1d43c-7006-40f4-b1e3-7e38313dc33f,177365539281,28787457,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, is there anything",keyword_match,2026-03-16 10:03:12.793946
+53187da8-33dc-4086-ac2b-940bb423a819,177365539281,28787457,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — have a wonderful, goodbye",keyword_match,2026-03-16 10:03:12.796867
+21dbd0e9-fcaf-4cf1-9a19-200be2ac1495,177365539281,28787457,Section 3: Communication Quality,Professional Tone,0.89,True,PASS sentiment:0.27 empathy:5,sentiment_analysis,2026-03-16 10:03:12.799758
+8dc5d58d-4e06-4bb6-a6e3-7a7a2a3d99e6,177365539281,28787457,Section 3: Communication Quality,Clear Explanation,0.8,True,PASS instructions:8,sentiment_analysis,2026-03-16 10:03:12.802702
+ba54e5a4-274a-49bf-902e-ea5f7a91f3d3,177365539281,28787457,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:03:12.806140
+096032fa-82fe-473d-8aa9-f04b45da0eb6,177365539305,28787457,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:03:12.998283
+dc210118-6995-40a8-bdd9-2800e99aebbe,177365539305,28787457,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — full name, callback number",keyword_match,2026-03-16 10:03:13.010551
+4091366f-c134-4ce4-a958-281da892a1c3,177365539305,28787457,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how may i assist,keyword_match,2026-03-16 10:03:13.014409
+a5012f7c-cfb6-4408-befd-d9b758214b0c,177365539305,28787457,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:13.017596
+c01b8bec-5385-430e-b4de-4556d0460582,177365539305,28787457,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — resolved,keyword_match,2026-03-16 10:03:13.020638
+878e3450-1993-45e3-86d8-8f48c5a7fbb5,177365539305,28787457,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:03:13.024945
+99a84b48-ad44-4fe6-ad77-999927f0d94c,177365539305,28787457,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:13.027985
+5817ede0-ba74-4a67-8248-6aa2d60b0f9b,177365539305,28787457,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, is there anything",keyword_match,2026-03-16 10:03:13.031391
+a3bfc11f-9ce1-4455-950e-0ea51f47b4cb,177365539305,28787457,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — thank you for calling, have a great",keyword_match,2026-03-16 10:03:13.035058
+3999e21d-f450-4234-9fad-c6e1f3cd1840,177365539305,28787457,Section 3: Communication Quality,Professional Tone,0.86,True,PASS sentiment:0.32 empathy:4,sentiment_analysis,2026-03-16 10:03:13.039156
+419d6729-e2c2-407e-bb20-a2256d6e1895,177365539305,28787457,Section 3: Communication Quality,Clear Explanation,0.9,True,PASS instructions:9,sentiment_analysis,2026-03-16 10:03:13.041804
+eeafde4b-17d0-4a7c-9668-f2e20e4d8f4c,177365539305,28787457,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:03:13.044247
+67d78a9a-6d66-4dfb-b2a5-282e929844b1,177365539330,28787460,Section 1: Offer Assistance,Greeting,1.0,True,"PASS — thank you for calling, this is",keyword_match,2026-03-16 10:03:13.230024
+02f04d88-7201-435a-b456-68f24512e62a,177365539330,28787460,Section 1: Offer Assistance,User Authentication,1.0,True,"PASS — full name, callback number",keyword_match,2026-03-16 10:03:13.238582
+27f28704-4d1e-4476-a3fb-79b8c0718df7,177365539330,28787460,Section 1: Offer Assistance,Offer Assistance,1.0,True,PASS — how may i assist,keyword_match,2026-03-16 10:03:13.242414
+9464c4c3-f5de-4a3e-8873-bff6442b45fd,177365539330,28787460,Section 2: Problem Resolution,Active Listening,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:13.245019
+b9121d8a-b864-464c-af48-26f1174efda0,177365539330,28787460,Section 2: Problem Resolution,Resolution Provided,1.0,True,PASS — resolved,keyword_match,2026-03-16 10:03:13.247273
+e830a93d-a057-4276-885b-dea6b9440c2b,177365539330,28787460,Section 2: Problem Resolution,Hold Protocol,1.0,True,PASS — one moment,keyword_match,2026-03-16 10:03:13.249462
+23bef553-22d9-4bbc-a6f8-d1ac7b4282dc,177365539330,28787460,Section 2: Problem Resolution,Escalation Handling,0.0,False,FAIL — found 0/1,keyword_match,2026-03-16 10:03:13.252001
+c12edf42-3af4-4820-810a-5cf1d6ae8fbb,177365539330,28787460,Section 4: Call Closing,Issue Confirmation,1.0,True,"PASS — anything else, is there anything",keyword_match,2026-03-16 10:03:13.254726
+cc6a326e-2318-4731-9a4f-0cbca242661b,177365539330,28787460,Section 4: Call Closing,Professional Farewell,1.0,True,"PASS — thank you for calling, have a great",keyword_match,2026-03-16 10:03:13.257419
+e7a31e5c-0dfb-4ef0-92dc-fa2d17c444c7,177365539330,28787460,Section 3: Communication Quality,Professional Tone,0.86,True,PASS sentiment:0.32 empathy:4,sentiment_analysis,2026-03-16 10:03:13.261345
+b050ed5f-2b02-4219-a992-1b2221cf7eb0,177365539330,28787460,Section 3: Communication Quality,Clear Explanation,0.9,True,PASS instructions:9,sentiment_analysis,2026-03-16 10:03:13.264437
+34ecaf1e-0adf-42ee-84c6-787ab73fa029,177365539330,28787460,Section 4: Call Closing,Recap Provided,1.0,True,PASS,sentiment_analysis,2026-03-16 10:03:13.267317
